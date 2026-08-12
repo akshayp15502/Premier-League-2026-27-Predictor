@@ -1,0 +1,29 @@
+name: Weekly PL Predictor Update
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # every Monday 6am UTC
+  workflow_dispatch:        # lets you trigger it manually from GitHub's website too
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install -r scripts/requirements.txt
+
+      - run: python scripts/1_fetch_data.py
+      - run: python scripts/2_build_features.py
+      - run: python scripts/3_train_and_predict.py
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          git commit -m "Weekly update: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
