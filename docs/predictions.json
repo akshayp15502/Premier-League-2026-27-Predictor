@@ -1,146 +1,146 @@
 {
-  "last_updated": "2026-08-31T13:08:33.925925+00:00",
+  "last_updated": "2026-09-07T12:00:04.025975+00:00",
   "n_trials": 10000,
   "standings": [
     {
       "team": "Arsenal",
-      "avg_points": 79.7,
-      "title_pct": 43.06,
-      "top4_pct": 98.22,
+      "avg_points": 78.9,
+      "title_pct": 32.71,
+      "top4_pct": 97.61,
       "relegation_pct": 0.0
     },
     {
       "team": "Manchester City",
-      "avg_points": 81.1,
-      "title_pct": 53.56,
-      "top4_pct": 99.03,
+      "avg_points": 83.2,
+      "title_pct": 64.17,
+      "top4_pct": 99.4,
       "relegation_pct": 0.0
     },
     {
       "team": "Manchester United",
-      "avg_points": 62.9,
-      "title_pct": 1.15,
-      "top4_pct": 47.57,
-      "relegation_pct": 0.13
+      "avg_points": 63.8,
+      "title_pct": 1.14,
+      "top4_pct": 50.92,
+      "relegation_pct": 0.09
     },
     {
       "team": "Liverpool",
-      "avg_points": 61.0,
-      "title_pct": 0.78,
-      "top4_pct": 37.88,
-      "relegation_pct": 0.3
-    },
-    {
-      "team": "Chelsea",
-      "avg_points": 53.1,
-      "title_pct": 0.06,
-      "top4_pct": 9.28,
-      "relegation_pct": 3.11
+      "avg_points": 56.1,
+      "title_pct": 0.1,
+      "top4_pct": 15.5,
+      "relegation_pct": 1.2
     },
     {
       "team": "Aston Villa",
-      "avg_points": 60.1,
-      "title_pct": 0.62,
-      "top4_pct": 33.08,
-      "relegation_pct": 0.38
+      "avg_points": 62.7,
+      "title_pct": 1.08,
+      "top4_pct": 44.68,
+      "relegation_pct": 0.11
+    },
+    {
+      "team": "Chelsea",
+      "avg_points": 54.2,
+      "title_pct": 0.05,
+      "top4_pct": 10.95,
+      "relegation_pct": 2.28
     },
     {
       "team": "Bournemouth",
-      "avg_points": 56.7,
-      "title_pct": 0.19,
-      "top4_pct": 19.58,
-      "relegation_pct": 1.0
+      "avg_points": 59.3,
+      "title_pct": 0.41,
+      "top4_pct": 28.31,
+      "relegation_pct": 0.48
     },
     {
       "team": "Brighton",
-      "avg_points": 59.9,
-      "title_pct": 0.5,
-      "top4_pct": 31.79,
-      "relegation_pct": 0.3
+      "avg_points": 59.2,
+      "title_pct": 0.28,
+      "top4_pct": 28.01,
+      "relegation_pct": 0.41
     },
     {
       "team": "Brentford",
-      "avg_points": 48.2,
-      "title_pct": 0.01,
-      "top4_pct": 2.88,
-      "relegation_pct": 10.19
-    },
-    {
-      "team": "Everton",
-      "avg_points": 50.0,
+      "avg_points": 51.2,
       "title_pct": 0.03,
-      "top4_pct": 4.37,
-      "relegation_pct": 6.51
-    },
-    {
-      "team": "Newcastle United",
-      "avg_points": 51.9,
-      "title_pct": 0.04,
-      "top4_pct": 6.95,
-      "relegation_pct": 4.41
+      "top4_pct": 5.55,
+      "relegation_pct": 4.75
     },
     {
       "team": "Fulham",
-      "avg_points": 46.4,
+      "avg_points": 43.7,
       "title_pct": 0.0,
-      "top4_pct": 1.73,
-      "relegation_pct": 15.49
-    },
-    {
-      "team": "Leeds",
-      "avg_points": 46.5,
-      "title_pct": 0.0,
-      "top4_pct": 1.78,
-      "relegation_pct": 15.22
-    },
-    {
-      "team": "Sunderland",
-      "avg_points": 46.3,
-      "title_pct": 0.0,
-      "top4_pct": 1.56,
-      "relegation_pct": 15.01
-    },
-    {
-      "team": "Crystal Palace",
-      "avg_points": 43.1,
-      "title_pct": 0.0,
-      "top4_pct": 0.64,
-      "relegation_pct": 26.9
-    },
-    {
-      "team": "Nottingham Forest",
-      "avg_points": 44.3,
-      "title_pct": 0.0,
-      "top4_pct": 0.8,
+      "top4_pct": 0.59,
       "relegation_pct": 22.57
     },
     {
-      "team": "Tottenham",
-      "avg_points": 47.6,
+      "team": "Everton",
+      "avg_points": 50.4,
       "title_pct": 0.0,
-      "top4_pct": 2.49,
-      "relegation_pct": 11.53
+      "top4_pct": 4.32,
+      "relegation_pct": 5.77
+    },
+    {
+      "team": "Newcastle United",
+      "avg_points": 50.8,
+      "title_pct": 0.02,
+      "top4_pct": 5.09,
+      "relegation_pct": 5.38
+    },
+    {
+      "team": "Sunderland",
+      "avg_points": 43.8,
+      "title_pct": 0.0,
+      "top4_pct": 0.56,
+      "relegation_pct": 22.79
+    },
+    {
+      "team": "Crystal Palace",
+      "avg_points": 48.8,
+      "title_pct": 0.0,
+      "top4_pct": 2.87,
+      "relegation_pct": 8.58
+    },
+    {
+      "team": "Nottingham Forest",
+      "avg_points": 43.7,
+      "title_pct": 0.01,
+      "top4_pct": 0.69,
+      "relegation_pct": 23.56
+    },
+    {
+      "team": "Leeds",
+      "avg_points": 47.9,
+      "title_pct": 0.0,
+      "top4_pct": 2.31,
+      "relegation_pct": 10.04
+    },
+    {
+      "team": "Tottenham",
+      "avg_points": 48.0,
+      "title_pct": 0.0,
+      "top4_pct": 2.44,
+      "relegation_pct": 10.44
     },
     {
       "team": "Coventry City",
-      "avg_points": 40.3,
+      "avg_points": 40.0,
       "title_pct": 0.0,
-      "top4_pct": 0.22,
-      "relegation_pct": 40.84
+      "top4_pct": 0.11,
+      "relegation_pct": 41.46
     },
     {
       "team": "Hull City",
-      "avg_points": 39.1,
+      "avg_points": 39.0,
       "title_pct": 0.0,
-      "top4_pct": 0.11,
-      "relegation_pct": 48.44
+      "top4_pct": 0.09,
+      "relegation_pct": 46.7
     },
     {
       "team": "Ipswich",
-      "avg_points": 33.1,
+      "avg_points": 27.9,
       "title_pct": 0.0,
-      "top4_pct": 0.04,
-      "relegation_pct": 77.67
+      "top4_pct": 0.0,
+      "relegation_pct": 93.39
     }
   ]
 }
