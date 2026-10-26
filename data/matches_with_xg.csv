@@ -423,15 +423,15 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2018-09-15,Newcastle United,Arsenal,1,2,A,2018,0.412121,0.90461
 2018-09-15,Tottenham,Liverpool,1,2,A,2018,0.788168,3.01015
 2018-09-15,Manchester City,Fulham,3,0,H,2018,4.91621,0.342698
-2018-09-15,Huddersfield,Crystal Palace,0,1,A,2018,0.87744,0.746631
-2018-09-15,Chelsea,Cardiff,4,1,H,2018,2.67145,0.8276
 2018-09-15,Bournemouth,Leicester,4,2,H,2018,2.22726,1.82502
+2018-09-15,Chelsea,Cardiff,4,1,H,2018,2.67145,0.8276
+2018-09-15,Huddersfield,Crystal Palace,0,1,A,2018,0.87744,0.746631
 2018-09-16,Everton,West Ham,1,3,A,2018,1.26774,1.52437
 2018-09-16,Wolves,Burnley,1,0,H,2018,3.3916,0.208994
 2018-09-17,Southampton,Brighton,2,2,D,2018,2.19521,1.97094
+2018-09-22,Manchester United,Wolves,1,1,D,2018,0.62283,1.1185
 2018-09-22,Leicester,Huddersfield,3,1,H,2018,1.80404,0.688176
 2018-09-22,Liverpool,Southampton,3,0,H,2018,1.77893,0.310467
-2018-09-22,Manchester United,Wolves,1,1,D,2018,0.62283,1.1185
 2018-09-22,Fulham,Watford,1,1,D,2018,1.77245,1.76133
 2018-09-22,Burnley,Bournemouth,4,0,H,2018,2.29417,0.976413
 2018-09-22,Cardiff,Manchester City,0,5,A,2018,0.0980726,3.08415
@@ -441,40 +441,40 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2018-09-23,West Ham,Chelsea,0,0,D,2018,1.0177,1.88344
 2018-09-29,Wolves,Southampton,2,0,H,2018,1.42507,0.679627
 2018-09-29,West Ham,Manchester United,3,1,H,2018,1.3029,0.865739
+2018-09-29,Newcastle United,Leicester,0,2,A,2018,0.397301,1.34341
 2018-09-29,Manchester City,Brighton,2,0,H,2018,2.90697,0.23023
 2018-09-29,Huddersfield,Tottenham,0,2,A,2018,0.339245,2.33733
-2018-09-29,Newcastle United,Leicester,0,2,A,2018,0.397301,1.34341
 2018-09-29,Chelsea,Liverpool,1,1,D,2018,1.77638,1.74071
 2018-09-29,Arsenal,Watford,2,0,H,2018,1.57061,2.62141
 2018-09-29,Everton,Fulham,3,0,H,2018,2.31538,0.536317
 2018-09-30,Cardiff,Burnley,1,2,A,2018,1.56707,0.111527
 2018-10-01,Bournemouth,Crystal Palace,2,1,H,2018,1.97143,0.385841
 2018-10-05,Brighton,West Ham,1,0,H,2018,1.02566,1.43652
+2018-10-06,Manchester United,Newcastle United,3,2,H,2018,2.40631,1.55962
 2018-10-06,Tottenham,Cardiff,1,0,H,2018,2.6517,1.13843
+2018-10-06,Leicester,Everton,1,2,A,2018,1.10472,1.14952
+2018-10-06,Watford,Bournemouth,0,4,A,2018,1.06613,3.28471
 2018-10-06,Burnley,Huddersfield,1,1,D,2018,0.353128,1.02549
 2018-10-06,Crystal Palace,Wolves,0,1,A,2018,1.03714,0.755654
-2018-10-06,Leicester,Everton,1,2,A,2018,1.10472,1.14952
-2018-10-06,Manchester United,Newcastle United,3,2,H,2018,2.40631,1.55962
-2018-10-06,Watford,Bournemouth,0,4,A,2018,1.06613,3.28471
-2018-10-07,Southampton,Chelsea,0,3,A,2018,1.487,3.54699
-2018-10-07,Liverpool,Manchester City,0,0,D,2018,0.433994,1.07481
 2018-10-07,Fulham,Arsenal,1,5,A,2018,1.31588,1.13706
+2018-10-07,Liverpool,Manchester City,0,0,D,2018,0.433994,1.07481
+2018-10-07,Southampton,Chelsea,0,3,A,2018,1.487,3.54699
 2018-10-20,Wolves,Watford,0,2,A,2018,0.47391,1.0684
-2018-10-20,Bournemouth,Southampton,0,0,D,2018,0.840403,0.589633
-2018-10-20,Cardiff,Fulham,4,2,H,2018,1.7562,0.947712
-2018-10-20,Chelsea,Manchester United,2,2,D,2018,2.21163,1.11454
-2018-10-20,Huddersfield,Liverpool,0,1,A,2018,0.638341,0.663819
+2018-10-20,West Ham,Tottenham,0,1,A,2018,0.544268,1.11777
 2018-10-20,Manchester City,Burnley,5,0,H,2018,4.48577,0.370236
 2018-10-20,Newcastle United,Brighton,0,1,A,2018,1.71169,0.675798
-2018-10-20,West Ham,Tottenham,0,1,A,2018,0.544268,1.11777
+2018-10-20,Chelsea,Manchester United,2,2,D,2018,2.21163,1.11454
+2018-10-20,Cardiff,Fulham,4,2,H,2018,1.7562,0.947712
+2018-10-20,Bournemouth,Southampton,0,0,D,2018,0.840403,0.589633
+2018-10-20,Huddersfield,Liverpool,0,1,A,2018,0.638341,0.663819
 2018-10-21,Everton,Crystal Palace,2,0,H,2018,1.92794,1.50174
 2018-10-22,Arsenal,Leicester,3,1,H,2018,2.91637,0.932491
-2018-10-27,Southampton,Newcastle United,0,0,D,2018,1.19216,0.297646
-2018-10-27,Liverpool,Cardiff,4,1,H,2018,2.30176,0.643117
 2018-10-27,Watford,Huddersfield,3,0,H,2018,2.29622,0.479655
-2018-10-27,Fulham,Bournemouth,0,3,A,2018,0.383833,2.10555
 2018-10-27,Brighton,Wolves,1,0,H,2018,1.01337,1.38027
+2018-10-27,Fulham,Bournemouth,0,3,A,2018,0.383833,2.10555
 2018-10-27,Leicester,West Ham,1,1,D,2018,1.95344,1.56009
+2018-10-27,Liverpool,Cardiff,4,1,H,2018,2.30176,0.643117
+2018-10-27,Southampton,Newcastle United,0,0,D,2018,1.19216,0.297646
 2018-10-28,Crystal Palace,Arsenal,2,2,D,2018,2.38115,0.845197
 2018-10-28,Manchester United,Everton,2,1,H,2018,2.51393,1.67348
 2018-10-28,Burnley,Chelsea,0,4,A,2018,0.269828,3.01621
@@ -842,11 +842,11 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2019-10-19,Tottenham,Watford,1,1,D,2019,0.891617,0.846851
 2019-10-19,Leicester,Burnley,2,1,H,2019,0.8291,1.79569
 2019-10-19,Wolves,Southampton,1,1,D,2019,0.887495,1.37695
+2019-10-19,Bournemouth,Norwich,0,0,D,2019,0.675554,0.402873
 2019-10-19,Aston Villa,Brighton,2,1,H,2019,2.96692,1.32184
-2019-10-19,Everton,West Ham,2,0,H,2019,2.23324,0.459112
 2019-10-19,Chelsea,Newcastle United,1,0,H,2019,2.30068,0.197082
 2019-10-19,Crystal Palace,Manchester City,0,2,A,2019,0.616864,4.02104
-2019-10-19,Bournemouth,Norwich,0,0,D,2019,0.675554,0.402873
+2019-10-19,Everton,West Ham,2,0,H,2019,2.23324,0.459112
 2019-10-20,Manchester United,Liverpool,1,1,D,2019,0.791862,1.03212
 2019-10-21,Sheffield United,Arsenal,1,0,H,2019,0.895722,0.949735
 2019-10-25,Southampton,Leicester,0,9,A,2019,0.457334,4.38046
@@ -919,12 +919,12 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2019-12-08,Norwich,Sheffield United,1,2,A,2019,0.585805,0.712899
 2019-12-08,Brighton,Wolves,2,2,D,2019,0.951621,1.87208
 2019-12-09,West Ham,Arsenal,1,3,A,2019,0.521847,1.79181
-2019-12-14,Liverpool,Watford,2,0,H,2019,1.56674,1.01166
+2019-12-14,Southampton,West Ham,0,1,A,2019,0.805884,0.90324
 2019-12-14,Burnley,Newcastle United,1,0,H,2019,1.43602,1.08726
 2019-12-14,Chelsea,Bournemouth,0,1,A,2019,2.02119,1.20777
-2019-12-14,Southampton,West Ham,0,1,A,2019,0.805884,0.90324
-2019-12-14,Sheffield United,Aston Villa,2,0,H,2019,1.888,0.97258
 2019-12-14,Leicester,Norwich,1,1,D,2019,1.06421,1.16408
+2019-12-14,Sheffield United,Aston Villa,2,0,H,2019,1.888,0.97258
+2019-12-14,Liverpool,Watford,2,0,H,2019,1.56674,1.01166
 2019-12-15,Manchester United,Everton,1,1,D,2019,1.48327,0.276759
 2019-12-15,Wolves,Tottenham,1,2,A,2019,0.718669,0.989205
 2019-12-15,Arsenal,Manchester City,0,3,A,2019,0.28161,1.69553
@@ -1049,8 +1049,8 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-03-09,Leicester,Aston Villa,4,0,H,2019,2.41239,0.672448
 2020-06-17,Manchester City,Arsenal,3,0,H,2019,2.73725,0.496759
 2020-06-17,Aston Villa,Sheffield United,0,0,D,2019,1.00877,0.235909
-2020-06-19,Norwich,Southampton,0,3,A,2019,0.654932,1.87099
 2020-06-19,Tottenham,Manchester United,1,1,D,2019,0.534852,1.77307
+2020-06-19,Norwich,Southampton,0,3,A,2019,0.654932,1.87099
 2020-06-20,Watford,Leicester,1,1,D,2019,1.00765,1.05245
 2020-06-20,Brighton,Arsenal,2,1,H,2019,0.670973,0.69627
 2020-06-20,West Ham,Wolves,0,2,A,2019,0.44207,1.06433
@@ -1059,13 +1059,13 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-06-21,Aston Villa,Chelsea,1,2,A,2019,1.57223,1.14011
 2020-06-21,Everton,Liverpool,0,0,D,2019,0.621456,0.659123
 2020-06-22,Manchester City,Burnley,5,0,H,2019,2.71096,0.0303408
-2020-06-23,Leicester,Brighton,0,0,D,2019,0.505486,1.10227
 2020-06-23,Tottenham,West Ham,2,0,H,2019,2.24125,0.83104
-2020-06-24,Liverpool,Crystal Palace,4,0,H,2019,2.56729,0.0645285
-2020-06-24,Wolves,Bournemouth,1,0,H,2019,0.715002,0.0619009
+2020-06-23,Leicester,Brighton,0,0,D,2019,0.505486,1.10227
+2020-06-24,Manchester United,Sheffield United,3,0,H,2019,2.8416,0.108082
 2020-06-24,Newcastle United,Aston Villa,1,1,D,2019,0.661808,1.22985
 2020-06-24,Norwich,Everton,0,1,A,2019,0.382813,0.654912
-2020-06-24,Manchester United,Sheffield United,3,0,H,2019,2.8416,0.108082
+2020-06-24,Wolves,Bournemouth,1,0,H,2019,0.715002,0.0619009
+2020-06-24,Liverpool,Crystal Palace,4,0,H,2019,2.56729,0.0645285
 2020-06-25,Burnley,Watford,1,0,H,2019,0.964774,0.495542
 2020-06-25,Southampton,Arsenal,0,2,A,2019,0.738305,2.18595
 2020-06-25,Chelsea,Manchester City,2,1,H,2019,4.206,0.690594
@@ -1075,8 +1075,8 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-06-30,Brighton,Manchester United,0,3,A,2019,0.31013,1.20903
 2020-07-01,Everton,Leicester,2,1,H,2019,1.17592,1.80384
 2020-07-01,West Ham,Chelsea,3,2,H,2019,2.10497,1.57609
-2020-07-01,Bournemouth,Newcastle United,1,4,A,2019,1.27503,2.23457
 2020-07-01,Arsenal,Norwich,4,0,H,2019,1.76496,0.153871
+2020-07-01,Bournemouth,Newcastle United,1,4,A,2019,1.27503,2.23457
 2020-07-02,Sheffield United,Tottenham,3,1,H,2019,1.59994,1.01524
 2020-07-02,Manchester City,Liverpool,4,0,H,2019,2.65433,0.819606
 2020-07-04,Norwich,Brighton,0,1,A,2019,0.545069,0.903046
@@ -1084,14 +1084,14 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-07-04,Manchester United,Bournemouth,5,2,H,2019,2.63259,1.52161
 2020-07-04,Wolves,Arsenal,0,2,A,2019,0.985166,1.28273
 2020-07-04,Chelsea,Watford,3,0,H,2019,2.78877,0.608971
-2020-07-05,Southampton,Manchester City,1,0,H,2019,0.628765,3.39575
 2020-07-05,Burnley,Sheffield United,1,1,D,2019,1.31966,1.63343
 2020-07-05,Newcastle United,West Ham,2,2,D,2019,1.49121,2.03065
 2020-07-05,Liverpool,Aston Villa,2,0,H,2019,1.0837,0.689775
+2020-07-05,Southampton,Manchester City,1,0,H,2019,0.628765,3.39575
 2020-07-06,Tottenham,Everton,1,0,H,2019,0.511828,0.403762
-2020-07-07,Crystal Palace,Chelsea,2,3,A,2019,1.2882,2.65753
-2020-07-07,Watford,Norwich,2,1,H,2019,0.725199,1.13378
 2020-07-07,Arsenal,Leicester,1,1,D,2019,1.29023,1.00238
+2020-07-07,Watford,Norwich,2,1,H,2019,0.725199,1.13378
+2020-07-07,Crystal Palace,Chelsea,2,3,A,2019,1.2882,2.65753
 2020-07-08,Manchester City,Newcastle United,5,0,H,2019,3.28662,0.21643
 2020-07-08,Sheffield United,Wolves,1,0,H,2019,0.470483,0.326909
 2020-07-08,West Ham,Burnley,0,1,A,2019,1.99821,1.05291
@@ -1099,15 +1099,15 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-07-09,Bournemouth,Tottenham,0,0,D,2019,0.960349,0.479274
 2020-07-09,Everton,Southampton,1,1,D,2019,0.671442,2.29684
 2020-07-09,Aston Villa,Manchester United,0,3,A,2019,0.598873,2.86531
-2020-07-11,Brighton,Manchester City,0,5,A,2019,0.149588,5.51767
-2020-07-11,Liverpool,Burnley,1,1,D,2019,2.17649,0.452331
-2020-07-11,Sheffield United,Chelsea,3,0,H,2019,2.00632,1.17509
 2020-07-11,Norwich,West Ham,0,4,A,2019,0.613251,3.81088
 2020-07-11,Watford,Newcastle United,2,1,H,2019,3.12855,1.49134
+2020-07-11,Liverpool,Burnley,1,1,D,2019,2.17649,0.452331
+2020-07-11,Sheffield United,Chelsea,3,0,H,2019,2.00632,1.17509
+2020-07-11,Brighton,Manchester City,0,5,A,2019,0.149588,5.51767
+2020-07-12,Bournemouth,Leicester,4,1,H,2019,2.54311,1.66084
+2020-07-12,Tottenham,Arsenal,2,1,H,2019,1.81846,0.68991
 2020-07-12,Wolves,Everton,3,0,H,2019,2.86724,0.286561
 2020-07-12,Aston Villa,Crystal Palace,2,0,H,2019,1.6977,0.974181
-2020-07-12,Tottenham,Arsenal,2,1,H,2019,1.81846,0.68991
-2020-07-12,Bournemouth,Leicester,4,1,H,2019,2.54311,1.66084
 2020-07-13,Manchester United,Southampton,2,2,D,2019,1.5033,1.8051
 2020-07-14,Chelsea,Norwich,1,0,H,2019,3.05119,0.0631109
 2020-07-15,Burnley,Wolves,1,1,D,2019,1.53435,1.2857
@@ -1120,29 +1120,29 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-07-16,Southampton,Brighton,1,1,D,2019,2.33745,0.67264
 2020-07-17,West Ham,Watford,3,1,H,2019,0.833995,1.03402
 2020-07-18,Norwich,Burnley,0,2,A,2019,0.576602,1.8233
-2020-07-19,Tottenham,Leicester,3,0,H,2019,0.766922,1.20085
 2020-07-19,Bournemouth,Southampton,0,2,A,2019,0.583117,2.24527
-2020-07-20,Brighton,Newcastle United,0,0,D,2019,0.855896,0.929091
+2020-07-19,Tottenham,Leicester,3,0,H,2019,0.766922,1.20085
 2020-07-20,Sheffield United,Everton,0,1,A,2019,0.468461,0.624814
 2020-07-20,Wolves,Crystal Palace,2,0,H,2019,1.48696,0.440119
+2020-07-20,Brighton,Newcastle United,0,0,D,2019,0.855896,0.929091
 2020-07-21,Watford,Manchester City,0,4,A,2019,0.131868,3.73814
 2020-07-21,Aston Villa,Arsenal,1,0,H,2019,0.57408,0.737137
 2020-07-22,Manchester United,West Ham,1,1,D,2019,0.984161,1.29009
 2020-07-22,Liverpool,Chelsea,5,3,H,2019,1.45179,2.38205
+2020-07-26,West Ham,Aston Villa,1,1,D,2019,0.781465,0.983594
 2020-07-26,Southampton,Sheffield United,3,1,H,2019,1.64306,1.41051
 2020-07-26,Newcastle United,Liverpool,1,3,A,2019,0.339294,0.56818
 2020-07-26,Manchester City,Norwich,5,0,H,2019,3.56749,0.786563
 2020-07-26,Leicester,Manchester United,0,2,A,2019,0.754668,1.41019
-2020-07-26,West Ham,Aston Villa,1,1,D,2019,0.781465,0.983594
 2020-07-26,Crystal Palace,Tottenham,1,1,D,2019,0.988534,0.310302
 2020-07-26,Chelsea,Wolves,2,0,H,2019,1.15938,0.164561
+2020-07-26,Burnley,Brighton,1,2,A,2019,1.44244,1.3696
 2020-07-26,Arsenal,Watford,3,2,H,2019,1.95282,3.9197
 2020-07-26,Everton,Bournemouth,1,3,A,2019,1.74699,1.46461
-2020-07-26,Burnley,Brighton,1,2,A,2019,1.44244,1.3696
 2020-09-12,Liverpool,Leeds,4,3,H,2020,3.15412,0.269813
 2020-09-12,West Ham,Newcastle United,0,2,A,2020,0.861445,1.65911
-2020-09-12,Fulham,Arsenal,0,3,A,2020,0.126327,2.16287
 2020-09-12,Crystal Palace,Southampton,1,0,H,2020,1.39569,1.26267
+2020-09-12,Fulham,Arsenal,0,3,A,2020,0.126327,2.16287
 2020-09-13,West Brom,Leicester,0,3,A,2020,0.352997,2.95581
 2020-09-13,Tottenham,Everton,0,1,A,2020,0.822944,1.26793
 2020-09-14,Brighton,Chelsea,1,3,A,2020,1.44281,1.27062
@@ -1157,14 +1157,14 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-09-20,Leicester,Burnley,4,2,H,2020,0.987365,1.52404
 2020-09-21,Aston Villa,Sheffield United,1,0,H,2020,0.80527,0.849709
 2020-09-21,Wolves,Manchester City,1,3,A,2020,0.727677,2.07651
-2020-09-26,Brighton,Manchester United,2,3,A,2020,2.97659,1.57583
-2020-09-26,Crystal Palace,Everton,1,2,A,2020,0.443115,2.27189
 2020-09-26,West Brom,Chelsea,3,3,D,2020,0.911185,2.36046
+2020-09-26,Crystal Palace,Everton,1,2,A,2020,0.443115,2.27189
+2020-09-26,Brighton,Manchester United,2,3,A,2020,2.97659,1.57583
 2020-09-26,Burnley,Southampton,0,1,A,2020,0.347136,0.706632
 2020-09-27,West Ham,Wolves,4,0,H,2020,3.05703,0.385152
+2020-09-27,Tottenham,Newcastle United,1,1,D,2020,3.18765,0.942726
 2020-09-27,Manchester City,Leicester,2,5,A,2020,1.44633,2.86721
 2020-09-27,Sheffield United,Leeds,0,1,A,2020,1.53278,1.46641
-2020-09-27,Tottenham,Newcastle United,1,1,D,2020,3.18765,0.942726
 2020-09-28,Fulham,Aston Villa,0,3,A,2020,0.534675,2.03222
 2020-09-28,Liverpool,Arsenal,3,1,H,2020,2.73834,1.17817
 2020-10-03,Chelsea,Crystal Palace,4,0,H,2020,2.51433,0.103249
@@ -1177,16 +1177,16 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-10-04,Leicester,West Ham,0,3,A,2020,0.456022,2.03227
 2020-10-04,Southampton,West Brom,2,0,H,2020,0.949079,0.161283
 2020-10-04,Arsenal,Sheffield United,2,1,H,2020,0.667131,0.144994
-2020-10-17,Newcastle United,Manchester United,1,4,A,2020,0.867496,2.21729
 2020-10-17,Everton,Liverpool,2,2,D,2020,1.35998,2.49492
 2020-10-17,Chelsea,Southampton,3,3,D,2020,1.98708,1.42348
 2020-10-17,Manchester City,Arsenal,1,0,H,2020,1.43023,0.838322
-2020-10-18,Tottenham,West Ham,3,3,D,2020,1.77602,1.49992
-2020-10-18,Crystal Palace,Brighton,1,1,D,2020,0.761169,1.0935
+2020-10-17,Newcastle United,Manchester United,1,4,A,2020,0.867496,2.21729
 2020-10-18,Leicester,Aston Villa,0,1,A,2020,0.671595,0.873776
 2020-10-18,Sheffield United,Fulham,1,1,D,2020,1.66363,1.35611
-2020-10-19,West Brom,Burnley,0,0,D,2020,0.731692,1.08532
+2020-10-18,Crystal Palace,Brighton,1,1,D,2020,0.761169,1.0935
+2020-10-18,Tottenham,West Ham,3,3,D,2020,1.77602,1.49992
 2020-10-19,Leeds,Wolves,0,1,A,2020,1.08332,0.618191
+2020-10-19,West Brom,Burnley,0,0,D,2020,0.731692,1.08532
 2020-10-23,Aston Villa,Leeds,0,3,A,2020,1.50125,2.37695
 2020-10-24,West Ham,Manchester City,1,1,D,2020,0.263739,0.892456
 2020-10-24,Fulham,Crystal Palace,1,2,A,2020,1.05258,2.81049
@@ -1198,12 +1198,12 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-10-26,Brighton,West Brom,1,1,D,2020,0.546807,0.295654
 2020-10-26,Burnley,Tottenham,0,1,A,2020,0.95045,0.797344
 2020-10-30,Wolves,Crystal Palace,2,0,H,2020,1.34895,0.802767
+2020-10-31,Sheffield United,Manchester City,0,1,A,2020,0.687544,1.89643
 2020-10-31,Burnley,Chelsea,0,3,A,2020,0.407341,1.23077
 2020-10-31,Liverpool,West Ham,2,1,H,2020,1.56302,0.269048
-2020-10-31,Sheffield United,Manchester City,0,1,A,2020,0.687544,1.89643
 2020-11-01,Tottenham,Brighton,2,1,H,2020,1.97236,0.324457
-2020-11-01,Manchester United,Arsenal,0,1,A,2020,0.394113,0.998072
 2020-11-01,Newcastle United,Everton,2,1,H,2020,2.6311,1.21805
+2020-11-01,Manchester United,Arsenal,0,1,A,2020,0.394113,0.998072
 2020-11-01,Aston Villa,Southampton,3,4,A,2020,2.44855,1.00333
 2020-11-02,Fulham,West Brom,2,0,H,2020,1.62247,0.482685
 2020-11-02,Leeds,Leicester,1,4,A,2020,1.74822,3.07657
@@ -1214,43 +1214,43 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-11-07,Chelsea,Sheffield United,4,1,H,2020,2.87622,0.743967
 2020-11-07,West Ham,Fulham,1,0,H,2020,1.42614,1.84922
 2020-11-08,Arsenal,Aston Villa,0,3,A,2020,1.39037,1.98553
+2020-11-08,West Brom,Tottenham,0,1,A,2020,0.799352,1.87063
 2020-11-08,Leicester,Wolves,1,0,H,2020,2.0545,0.57936
 2020-11-08,Manchester City,Liverpool,1,1,D,2020,1.58487,1.18789
-2020-11-08,West Brom,Tottenham,0,1,A,2020,0.799352,1.87063
-2020-11-21,Newcastle United,Chelsea,0,2,A,2020,0.368286,1.81923
-2020-11-21,Aston Villa,Brighton,1,2,A,2020,1.76514,1.50038
-2020-11-21,Tottenham,Manchester City,2,0,H,2020,0.761142,1.66325
 2020-11-21,Manchester United,West Brom,1,0,H,2020,2.42994,0.438646
+2020-11-21,Tottenham,Manchester City,2,0,H,2020,0.761142,1.66325
+2020-11-21,Aston Villa,Brighton,1,2,A,2020,1.76514,1.50038
+2020-11-21,Newcastle United,Chelsea,0,2,A,2020,0.368286,1.81923
 2020-11-22,Fulham,Everton,2,3,A,2020,1.87028,2.2508
 2020-11-22,Sheffield United,West Ham,0,1,A,2020,0.692374,2.1142
 2020-11-22,Leeds,Arsenal,0,0,D,2020,1.9617,0.710778
 2020-11-22,Liverpool,Leicester,3,0,H,2020,3.77245,1.98397
-2020-11-23,Wolves,Southampton,1,1,D,2020,1.57479,1.0785
 2020-11-23,Burnley,Crystal Palace,1,0,H,2020,1.75343,1.28331
+2020-11-23,Wolves,Southampton,1,1,D,2020,1.57479,1.0785
 2020-11-27,Crystal Palace,Newcastle United,0,2,A,2020,0.534893,1.27929
 2020-11-28,Manchester City,Burnley,5,0,H,2020,2.26129,0.419877
-2020-11-28,Everton,Leeds,0,1,A,2020,1.29229,3.11324
-2020-11-28,Brighton,Liverpool,1,1,D,2020,2.30722,0.28109
 2020-11-28,West Brom,Sheffield United,1,0,H,2020,1.71644,3.36544
+2020-11-28,Brighton,Liverpool,1,1,D,2020,2.30722,0.28109
+2020-11-28,Everton,Leeds,0,1,A,2020,1.29229,3.11324
+2020-11-29,Arsenal,Wolves,1,2,A,2020,1.1185,2.0069
 2020-11-29,Southampton,Manchester United,2,3,A,2020,0.498783,2.47547
 2020-11-29,Chelsea,Tottenham,0,0,D,2020,0.974755,0.22689
-2020-11-29,Arsenal,Wolves,1,2,A,2020,1.1185,2.0069
 2020-11-30,Leicester,Fulham,1,2,A,2020,1.27814,2.03719
 2020-11-30,West Ham,Aston Villa,2,1,H,2020,0.571633,2.39051
-2020-12-05,Chelsea,Leeds,3,1,H,2020,4.89472,1.0277
-2020-12-05,West Ham,Manchester United,1,3,A,2020,2.53006,1.78708
-2020-12-05,Manchester City,Fulham,2,0,H,2020,3.26328,0.287444
 2020-12-05,Burnley,Everton,1,1,D,2020,0.730434,2.28139
+2020-12-05,Manchester City,Fulham,2,0,H,2020,3.26328,0.287444
+2020-12-05,West Ham,Manchester United,1,3,A,2020,2.53006,1.78708
+2020-12-05,Chelsea,Leeds,3,1,H,2020,4.89472,1.0277
 2020-12-06,West Brom,Crystal Palace,1,5,A,2020,0.567234,1.68656
 2020-12-06,Sheffield United,Leicester,1,2,A,2020,0.290743,1.3904
 2020-12-06,Tottenham,Arsenal,2,0,H,2020,0.390629,0.595216
 2020-12-06,Liverpool,Wolves,4,0,H,2020,1.59454,0.357753
 2020-12-07,Brighton,Southampton,1,2,A,2020,2.03376,1.34801
 2020-12-11,Leeds,West Ham,1,2,A,2020,1.56644,1.7851
-2020-12-12,Wolves,Aston Villa,0,1,A,2020,1.1356,1.26872
-2020-12-12,Newcastle United,West Brom,2,1,H,2020,0.904163,0.57319
 2020-12-12,Everton,Chelsea,1,0,H,2020,1.2216,1.00627
+2020-12-12,Wolves,Aston Villa,0,1,A,2020,1.1356,1.26872
 2020-12-12,Manchester United,Manchester City,0,0,D,2020,0.591617,1.28434
+2020-12-12,Newcastle United,West Brom,2,1,H,2020,0.904163,0.57319
 2020-12-13,Southampton,Sheffield United,3,0,H,2020,2.27973,0.219115
 2020-12-13,Crystal Palace,Tottenham,1,1,D,2020,1.84443,1.40792
 2020-12-13,Fulham,Liverpool,1,1,D,2020,1.72509,1.82445
@@ -1258,14 +1258,14 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-12-13,Leicester,Brighton,3,0,H,2020,1.64351,0.791673
 2020-12-15,Wolves,Chelsea,2,1,H,2020,0.683783,1.56772
 2020-12-15,Manchester City,West Brom,1,1,D,2020,2.58593,0.210243
-2020-12-16,West Ham,Crystal Palace,1,1,D,2020,0.449469,1.09108
-2020-12-16,Liverpool,Tottenham,2,1,H,2020,1.21783,1.5161
 2020-12-16,Arsenal,Southampton,1,1,D,2020,0.661135,1.11296
-2020-12-16,Leicester,Everton,0,2,A,2020,0.83883,1.51486
 2020-12-16,Leeds,Newcastle United,5,2,H,2020,2.95137,1.44437
+2020-12-16,Leicester,Everton,0,2,A,2020,0.83883,1.51486
 2020-12-16,Fulham,Brighton,0,0,D,2020,1.00448,0.462456
-2020-12-17,Aston Villa,Burnley,0,0,D,2020,1.81142,0.316737
+2020-12-16,Liverpool,Tottenham,2,1,H,2020,1.21783,1.5161
+2020-12-16,West Ham,Crystal Palace,1,1,D,2020,0.449469,1.09108
 2020-12-17,Sheffield United,Manchester United,2,3,A,2020,1.23525,1.78667
+2020-12-17,Aston Villa,Burnley,0,0,D,2020,1.81142,0.316737
 2020-12-19,Crystal Palace,Liverpool,0,7,A,2020,0.489318,2.86902
 2020-12-19,Southampton,Manchester City,0,1,A,2020,0.586972,1.15599
 2020-12-19,Everton,Arsenal,2,1,H,2020,0.661744,1.25206
@@ -1276,30 +1276,30 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2020-12-20,West Brom,Aston Villa,0,3,A,2020,0.0388442,2.61964
 2020-12-21,Chelsea,West Ham,3,0,H,2020,2.41157,0.277737
 2020-12-21,Burnley,Wolves,2,1,H,2020,1.20465,1.45722
-2020-12-26,Leicester,Manchester United,2,2,D,2020,1.0396,2.08423
-2020-12-26,Aston Villa,Crystal Palace,3,0,H,2020,4.58214,0.849086
-2020-12-26,Fulham,Southampton,0,0,D,2020,0.781855,0.119709
-2020-12-26,Arsenal,Chelsea,3,1,H,2020,1.94485,2.25414
-2020-12-26,Manchester City,Newcastle United,2,0,H,2020,3.19575,0.200953
 2020-12-26,Sheffield United,Everton,0,1,A,2020,1.25106,0.568803
-2020-12-27,West Ham,Brighton,2,2,D,2020,1.38877,1.50551
-2020-12-27,Wolves,Tottenham,1,1,D,2020,0.742598,0.408109
+2020-12-26,Manchester City,Newcastle United,2,0,H,2020,3.19575,0.200953
+2020-12-26,Arsenal,Chelsea,3,1,H,2020,1.94485,2.25414
+2020-12-26,Aston Villa,Crystal Palace,3,0,H,2020,4.58214,0.849086
+2020-12-26,Leicester,Manchester United,2,2,D,2020,1.0396,2.08423
+2020-12-26,Fulham,Southampton,0,0,D,2020,0.781855,0.119709
 2020-12-27,Liverpool,West Brom,1,1,D,2020,1.45485,0.739845
 2020-12-27,Leeds,Burnley,1,0,H,2020,2.13271,1.54591
+2020-12-27,West Ham,Brighton,2,2,D,2020,1.38877,1.50551
+2020-12-27,Wolves,Tottenham,1,1,D,2020,0.742598,0.408109
 2020-12-28,Chelsea,Aston Villa,1,1,D,2020,1.53701,0.730859
 2020-12-28,Crystal Palace,Leicester,1,1,D,2020,0.321348,1.72132
-2020-12-29,Brighton,Arsenal,0,1,A,2020,0.799368,1.31394
-2020-12-29,Burnley,Sheffield United,1,0,H,2020,0.973831,0.492578
-2020-12-29,Southampton,West Ham,0,0,D,2020,0.670996,1.07246
 2020-12-29,West Brom,Leeds,0,5,A,2020,0.43551,1.54225
 2020-12-29,Manchester United,Wolves,1,0,H,2020,1.48207,0.411046
+2020-12-29,Southampton,West Ham,0,0,D,2020,0.670996,1.07246
+2020-12-29,Brighton,Arsenal,0,1,A,2020,0.799368,1.31394
+2020-12-29,Burnley,Sheffield United,1,0,H,2020,0.973831,0.492578
 2020-12-30,Newcastle United,Liverpool,0,0,D,2020,0.817935,1.32047
-2021-01-01,Manchester United,Aston Villa,2,1,H,2020,2.46473,1.56434
 2021-01-01,Everton,West Ham,0,1,A,2020,0.371045,1.19713
+2021-01-01,Manchester United,Aston Villa,2,1,H,2020,2.46473,1.56434
 2021-01-02,West Brom,Arsenal,0,4,A,2020,0.869874,4.03429
-2021-01-02,Brighton,Wolves,3,3,D,2020,2.4228,1.81856
 2021-01-02,Tottenham,Leeds,3,0,H,2020,2.5286,1.15626
 2021-01-02,Crystal Palace,Sheffield United,2,0,H,2020,0.598888,0.323158
+2021-01-02,Brighton,Wolves,3,3,D,2020,2.4228,1.81856
 2021-01-03,Newcastle United,Leicester,1,2,A,2020,0.264584,0.702081
 2021-01-03,Chelsea,Manchester City,1,3,A,2020,0.691013,3.18063
 2021-01-04,Southampton,Liverpool,1,0,H,2020,0.500436,1.37204
@@ -1328,90 +1328,90 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2021-01-26,Newcastle United,Leeds,1,2,A,2020,1.1364,0.785914
 2021-01-26,Southampton,Arsenal,1,3,A,2020,0.99504,2.4339
 2021-01-26,West Brom,Manchester City,0,5,A,2020,0.568258,2.24838
-2021-01-27,Manchester United,Sheffield United,1,2,A,2020,0.9931,0.689548
 2021-01-27,Everton,Leicester,1,1,D,2020,0.474981,0.792045
 2021-01-27,Brighton,Fulham,0,0,D,2020,2.29129,0.513226
-2021-01-27,Burnley,Aston Villa,3,2,H,2020,0.717681,2.70718
 2021-01-27,Chelsea,Wolves,0,0,D,2020,0.663324,0.63192
+2021-01-27,Manchester United,Sheffield United,1,2,A,2020,0.9931,0.689548
+2021-01-27,Burnley,Aston Villa,3,2,H,2020,0.717681,2.70718
 2021-01-28,Tottenham,Liverpool,1,3,A,2020,0.104586,2.58798
-2021-01-30,Arsenal,Manchester United,0,0,D,2020,0.747166,1.51332
 2021-01-30,Everton,Newcastle United,0,2,A,2020,0.966012,2.08832
 2021-01-30,Crystal Palace,Wolves,1,0,H,2020,1.36877,0.450907
 2021-01-30,Manchester City,Sheffield United,1,0,H,2020,1.53116,0.154537
 2021-01-30,West Brom,Fulham,2,2,D,2020,0.994664,1.52044
+2021-01-30,Arsenal,Manchester United,0,0,D,2020,0.747166,1.51332
 2021-01-30,Southampton,Aston Villa,0,1,A,2020,2.22557,0.795508
-2021-01-31,Brighton,Tottenham,1,0,H,2020,1.77386,0.372524
-2021-01-31,Chelsea,Burnley,2,0,H,2020,1.4405,0.390714
 2021-01-31,Leicester,Leeds,1,3,A,2020,1.73432,1.8141
+2021-01-31,Brighton,Tottenham,1,0,H,2020,1.77386,0.372524
 2021-01-31,West Ham,Liverpool,1,3,A,2020,0.883061,2.05809
+2021-01-31,Chelsea,Burnley,2,0,H,2020,1.4405,0.390714
 2021-02-02,Sheffield United,West Brom,2,1,H,2020,1.35804,1.61871
 2021-02-02,Wolves,Arsenal,2,1,H,2020,1.56162,0.716265
-2021-02-02,Newcastle United,Crystal Palace,1,2,A,2020,1.90755,0.809312
 2021-02-02,Manchester United,Southampton,9,0,H,2020,5.0325,0.507893
-2021-02-03,Burnley,Manchester City,0,2,A,2020,0.0489155,2.12153
+2021-02-02,Newcastle United,Crystal Palace,1,2,A,2020,1.90755,0.809312
 2021-02-03,Liverpool,Brighton,0,1,A,2020,1.09518,1.18977
-2021-02-03,Fulham,Leicester,0,2,A,2020,0.731288,1.71299
 2021-02-03,Aston Villa,West Ham,1,3,A,2020,0.741154,1.79064
+2021-02-03,Burnley,Manchester City,0,2,A,2020,0.0489155,2.12153
+2021-02-03,Fulham,Leicester,0,2,A,2020,0.731288,1.71299
 2021-02-03,Leeds,Everton,1,2,A,2020,1.14303,1.91539
 2021-02-04,Tottenham,Chelsea,0,1,A,2020,0.569446,2.393
-2021-02-06,Fulham,West Ham,0,0,D,2020,1.60884,0.943539
-2021-02-06,Aston Villa,Arsenal,1,0,H,2020,1.19792,0.679649
 2021-02-06,Newcastle United,Southampton,3,2,H,2020,0.910553,1.43445
 2021-02-06,Burnley,Brighton,1,1,D,2020,1.88934,0.612682
+2021-02-06,Fulham,West Ham,0,0,D,2020,1.60884,0.943539
 2021-02-06,Manchester United,Everton,3,3,D,2020,1.71769,1.5571
-2021-02-07,Tottenham,West Brom,2,0,H,2020,1.92997,0.698686
+2021-02-06,Aston Villa,Arsenal,1,0,H,2020,1.19792,0.679649
 2021-02-07,Wolves,Leicester,0,0,D,2020,1.35506,0.632232
 2021-02-07,Liverpool,Manchester City,1,4,A,2020,1.17728,3.55196
 2021-02-07,Sheffield United,Chelsea,1,2,A,2020,0.623045,1.64144
+2021-02-07,Tottenham,West Brom,2,0,H,2020,1.92997,0.698686
 2021-02-08,Leeds,Crystal Palace,2,0,H,2020,2.64769,0.370278
 2021-02-13,Leicester,Liverpool,3,1,H,2020,2.07383,1.68325
+2021-02-13,Brighton,Aston Villa,0,0,D,2020,2.33232,0.144036
 2021-02-13,Crystal Palace,Burnley,0,3,A,2020,0.645616,1.95502
 2021-02-13,Manchester City,Tottenham,3,0,H,2020,2.46219,0.4235
-2021-02-13,Brighton,Aston Villa,0,0,D,2020,2.33232,0.144036
-2021-02-14,Everton,Fulham,0,2,A,2020,0.314075,2.55085
-2021-02-14,Arsenal,Leeds,4,2,H,2020,2.50614,0.77074
 2021-02-14,Southampton,Wolves,1,2,A,2020,0.8536,1.09361
 2021-02-14,West Brom,Manchester United,1,1,D,2020,0.945964,0.423885
+2021-02-14,Arsenal,Leeds,4,2,H,2020,2.50614,0.77074
+2021-02-14,Everton,Fulham,0,2,A,2020,0.314075,2.55085
 2021-02-15,West Ham,Sheffield United,3,0,H,2020,2.32735,0.926652
 2021-02-15,Chelsea,Newcastle United,2,0,H,2020,2.5428,0.432603
 2021-02-17,Burnley,Fulham,1,1,D,2020,1.20642,0.594471
 2021-02-17,Everton,Manchester City,1,3,A,2020,1.04664,1.23218
 2021-02-19,Wolves,Leeds,1,0,H,2020,0.592049,2.4793
-2021-02-20,Fulham,Sheffield United,1,0,H,2020,1.21006,0.977747
-2021-02-20,Liverpool,Everton,0,2,A,2020,1.54046,2.01468
 2021-02-20,Southampton,Chelsea,1,1,D,2020,0.496603,1.44849
 2021-02-20,Burnley,West Brom,0,0,D,2020,0.535153,1.71922
-2021-02-21,West Ham,Tottenham,2,1,H,2020,1.09246,0.770706
-2021-02-21,Aston Villa,Leicester,1,2,A,2020,1.7084,1.23852
-2021-02-21,Arsenal,Manchester City,0,1,A,2020,0.331188,2.08868
+2021-02-20,Liverpool,Everton,0,2,A,2020,1.54046,2.01468
+2021-02-20,Fulham,Sheffield United,1,0,H,2020,1.21006,0.977747
 2021-02-21,Manchester United,Newcastle United,3,1,H,2020,1.7256,0.341778
+2021-02-21,Arsenal,Manchester City,0,1,A,2020,0.331188,2.08868
+2021-02-21,Aston Villa,Leicester,1,2,A,2020,1.7084,1.23852
+2021-02-21,West Ham,Tottenham,2,1,H,2020,1.09246,0.770706
 2021-02-22,Brighton,Crystal Palace,1,2,A,2020,2.59204,0.179886
 2021-02-23,Leeds,Southampton,3,0,H,2020,1.84753,1.47981
-2021-02-27,West Brom,Brighton,1,0,H,2020,0.687091,3.12111
 2021-02-27,Manchester City,West Ham,2,1,H,2020,0.760574,1.92892
+2021-02-27,West Brom,Brighton,1,0,H,2020,0.687091,3.12111
 2021-02-27,Leeds,Aston Villa,0,1,A,2020,1.00106,0.876255
 2021-02-27,Newcastle United,Wolves,1,1,D,2020,1.9519,1.27827
-2021-02-28,Chelsea,Manchester United,0,0,D,2020,1.17294,0.35954
-2021-02-28,Tottenham,Burnley,4,0,H,2020,2.35788,0.603212
-2021-02-28,Sheffield United,Liverpool,0,2,A,2020,0.777149,2.80551
 2021-02-28,Crystal Palace,Fulham,0,0,D,2020,0.0880148,0.813134
 2021-02-28,Leicester,Arsenal,1,3,A,2020,0.533575,2.1065
+2021-02-28,Tottenham,Burnley,4,0,H,2020,2.35788,0.603212
+2021-02-28,Chelsea,Manchester United,0,0,D,2020,1.17294,0.35954
+2021-02-28,Sheffield United,Liverpool,0,2,A,2020,0.777149,2.80551
 2021-03-01,Everton,Southampton,1,0,H,2020,1.42054,0.665743
 2021-03-02,Manchester City,Wolves,4,1,H,2020,3.26196,0.318824
+2021-03-03,Crystal Palace,Manchester United,0,0,D,2020,0.742397,0.584016
 2021-03-03,Burnley,Leicester,1,1,D,2020,1.26793,1.24109
 2021-03-03,Sheffield United,Aston Villa,1,0,H,2020,0.716254,1.44176
-2021-03-03,Crystal Palace,Manchester United,0,0,D,2020,0.742397,0.584016
-2021-03-04,Fulham,Tottenham,0,1,A,2020,1.1715,1.5519
 2021-03-04,West Brom,Everton,0,1,A,2020,1.02038,1.40789
 2021-03-04,Liverpool,Chelsea,0,1,A,2020,0.247034,1.22635
-2021-03-06,Aston Villa,Wolves,0,0,D,2020,0.956392,2.15087
-2021-03-06,Brighton,Leicester,1,2,A,2020,0.75471,1.03801
+2021-03-04,Fulham,Tottenham,0,1,A,2020,1.1715,1.5519
 2021-03-06,Burnley,Arsenal,1,1,D,2020,1.10374,2.53692
 2021-03-06,Sheffield United,Southampton,0,2,A,2020,0.908155,2.37386
-2021-03-07,West Brom,Newcastle United,0,0,D,2020,1.46503,0.454577
+2021-03-06,Aston Villa,Wolves,0,0,D,2020,0.956392,2.15087
+2021-03-06,Brighton,Leicester,1,2,A,2020,0.75471,1.03801
 2021-03-07,Liverpool,Fulham,0,1,A,2020,0.701764,1.37047
 2021-03-07,Manchester City,Manchester United,0,2,A,2020,1.27561,2.11411
 2021-03-07,Tottenham,Crystal Palace,4,1,H,2020,2.24159,0.559383
+2021-03-07,West Brom,Newcastle United,0,0,D,2020,1.46503,0.454577
 2021-03-08,Chelsea,Everton,2,0,H,2020,2.57224,0.270757
 2021-03-08,West Ham,Leeds,2,0,H,2020,2.37556,1.34971
 2021-03-10,Manchester City,Southampton,5,2,H,2020,3.10503,1.60561
@@ -1433,8 +1433,8 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2021-04-03,Leeds,Sheffield United,2,1,H,2020,2.50597,0.867652
 2021-04-03,Leicester,Manchester City,0,2,A,2020,0.284781,1.98438
 2021-04-03,Arsenal,Liverpool,0,3,A,2020,0.161161,2.43732
-2021-04-04,Newcastle United,Tottenham,2,2,D,2020,3.30098,2.43683
 2021-04-04,Southampton,Burnley,3,2,H,2020,2.40272,1.50285
+2021-04-04,Newcastle United,Tottenham,2,2,D,2020,3.30098,2.43683
 2021-04-04,Manchester United,Brighton,2,1,H,2020,1.73474,1.41071
 2021-04-04,Aston Villa,Fulham,3,1,H,2020,1.52229,1.52172
 2021-04-05,Wolves,West Ham,2,3,A,2020,1.95649,1.59694
@@ -1445,8 +1445,8 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2021-04-10,Manchester City,Leeds,1,2,A,2020,1.98825,0.17525
 2021-04-11,Sheffield United,Arsenal,0,3,A,2020,0.315121,1.93838
 2021-04-11,Tottenham,Manchester United,1,3,A,2020,0.921801,2.09737
-2021-04-11,Burnley,Newcastle United,1,2,A,2020,1.84262,1.34279
 2021-04-11,West Ham,Leicester,3,2,H,2020,1.02408,1.17188
+2021-04-11,Burnley,Newcastle United,1,2,A,2020,1.84262,1.34279
 2021-04-12,West Brom,Southampton,3,0,H,2020,2.77089,1.5002
 2021-04-12,Brighton,Everton,0,0,D,2020,1.16465,0.306287
 2021-04-16,Everton,Tottenham,2,2,D,2020,2.26022,1.4815
@@ -1460,109 +1460,109 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2021-04-21,Aston Villa,Manchester City,1,2,A,2020,0.801733,1.5634
 2021-04-22,Leicester,West Brom,3,0,H,2020,2.6712,0.277126
 2021-04-23,Arsenal,Everton,0,1,A,2020,0.735767,0.529676
+2021-04-24,Sheffield United,Brighton,1,0,H,2020,0.786324,2.06038
 2021-04-24,Liverpool,Newcastle United,1,1,D,2020,2.84708,0.860694
 2021-04-24,West Ham,Chelsea,0,1,A,2020,0.267123,2.52059
-2021-04-24,Sheffield United,Brighton,1,0,H,2020,0.786324,2.06038
-2021-04-25,Aston Villa,West Brom,2,2,D,2020,2.65394,1.56764
 2021-04-25,Wolves,Burnley,0,4,A,2020,0.351673,2.24049
 2021-04-25,Leeds,Manchester United,0,0,D,2020,0.216834,1.11635
+2021-04-25,Aston Villa,West Brom,2,2,D,2020,2.65394,1.56764
 2021-04-26,Leicester,Crystal Palace,2,1,H,2020,1.23419,0.723112
 2021-04-30,Southampton,Leicester,1,1,D,2020,0.954057,2.51518
-2021-05-01,Chelsea,Fulham,2,0,H,2020,1.8433,0.290042
 2021-05-01,Crystal Palace,Manchester City,0,2,A,2020,0.361866,2.04443
 2021-05-01,Brighton,Leeds,2,0,H,2020,2.52542,0.510874
+2021-05-01,Chelsea,Fulham,2,0,H,2020,1.8433,0.290042
 2021-05-01,Everton,Aston Villa,1,2,A,2020,1.223,1.58811
-2021-05-02,Tottenham,Sheffield United,4,0,H,2020,2.26016,0.469026
 2021-05-02,Newcastle United,Arsenal,0,2,A,2020,0.172988,1.78751
+2021-05-02,Tottenham,Sheffield United,4,0,H,2020,2.26016,0.469026
 2021-05-03,West Brom,Wolves,1,1,D,2020,1.07133,0.844138
 2021-05-03,Burnley,West Ham,1,2,A,2020,1.68312,2.42477
 2021-05-07,Leicester,Newcastle United,2,4,A,2020,2.315,2.87261
-2021-05-08,Liverpool,Southampton,2,0,H,2020,2.26367,1.2289
 2021-05-08,Leeds,Tottenham,3,1,H,2020,2.55216,1.03384
 2021-05-08,Sheffield United,Crystal Palace,0,2,A,2020,0.639325,2.25382
 2021-05-08,Manchester City,Chelsea,1,2,A,2020,1.79168,0.619724
-2021-05-09,Arsenal,West Brom,3,1,H,2020,1.07042,1.83076
-2021-05-09,West Ham,Everton,0,1,A,2020,1.09704,1.56222
+2021-05-08,Liverpool,Southampton,2,0,H,2020,2.26367,1.2289
 2021-05-09,Wolves,Brighton,2,1,H,2020,1.1199,0.27571
 2021-05-09,Aston Villa,Manchester United,1,3,A,2020,0.565472,1.88793
+2021-05-09,West Ham,Everton,0,1,A,2020,1.09704,1.56222
+2021-05-09,Arsenal,West Brom,3,1,H,2020,1.07042,1.83076
 2021-05-10,Fulham,Burnley,0,2,A,2020,0.778074,1.65831
-2021-05-11,Manchester United,Leicester,1,2,A,2020,0.212874,0.991522
 2021-05-11,Southampton,Crystal Palace,3,1,H,2020,1.58872,1.32586
+2021-05-11,Manchester United,Leicester,1,2,A,2020,0.212874,0.991522
 2021-05-12,Chelsea,Arsenal,0,1,A,2020,1.56786,0.692043
 2021-05-13,Aston Villa,Everton,0,0,D,2020,0.558976,0.975408
 2021-05-13,Manchester United,Liverpool,2,4,A,2020,1.71328,2.938
 2021-05-14,Newcastle United,Manchester City,3,4,A,2020,2.18312,1.477
-2021-05-15,Brighton,West Ham,1,1,D,2020,0.922587,1.92378
 2021-05-15,Burnley,Leeds,0,4,A,2020,1.41338,1.85654
 2021-05-15,Southampton,Fulham,3,1,H,2020,2.29146,0.875957
+2021-05-15,Brighton,West Ham,1,1,D,2020,0.922587,1.92378
 2021-05-16,Crystal Palace,Aston Villa,3,2,H,2020,1.95285,1.2303
 2021-05-16,Tottenham,Wolves,2,0,H,2020,3.13947,1.09206
 2021-05-16,West Brom,Liverpool,1,2,A,2020,1.14202,2.07854
 2021-05-16,Everton,Sheffield United,0,1,A,2020,1.24609,1.391
-2021-05-18,Manchester United,Fulham,1,1,D,2020,0.92243,0.872643
-2021-05-18,Southampton,Leeds,0,2,A,2020,1.3084,1.58132
-2021-05-18,Brighton,Manchester City,3,2,H,2020,1.22824,1.07139
 2021-05-18,Chelsea,Leicester,2,1,H,2020,2.86149,0.832596
+2021-05-18,Southampton,Leeds,0,2,A,2020,1.3084,1.58132
+2021-05-18,Manchester United,Fulham,1,1,D,2020,0.92243,0.872643
+2021-05-18,Brighton,Manchester City,3,2,H,2020,1.22824,1.07139
+2021-05-19,Everton,Wolves,1,0,H,2020,0.670997,0.265526
+2021-05-19,Newcastle United,Sheffield United,1,0,H,2020,1.82508,0.882242
+2021-05-19,Tottenham,Aston Villa,1,2,A,2020,0.89279,1.63669
+2021-05-19,Crystal Palace,Arsenal,1,3,A,2020,0.998377,1.7945
 2021-05-19,Burnley,Liverpool,0,3,A,2020,0.837048,2.73316
 2021-05-19,West Brom,West Ham,1,3,A,2020,1.10741,3.56991
-2021-05-19,Crystal Palace,Arsenal,1,3,A,2020,0.998377,1.7945
-2021-05-19,Newcastle United,Sheffield United,1,0,H,2020,1.82508,0.882242
-2021-05-19,Everton,Wolves,1,0,H,2020,0.670997,0.265526
-2021-05-19,Tottenham,Aston Villa,1,2,A,2020,0.89279,1.63669
+2021-05-23,Wolves,Manchester United,1,2,A,2020,0.701256,2.05229
 2021-05-23,West Ham,Southampton,3,0,H,2020,1.98344,1.35179
 2021-05-23,Sheffield United,Burnley,1,0,H,2020,0.420006,0.558508
 2021-05-23,Manchester City,Everton,5,0,H,2020,2.88355,1.07258
-2021-05-23,Liverpool,Crystal Palace,2,0,H,2020,2.20348,0.772317
-2021-05-23,Wolves,Manchester United,1,2,A,2020,0.701256,2.05229
 2021-05-23,Leeds,West Brom,3,1,H,2020,2.49009,1.02209
+2021-05-23,Leicester,Tottenham,2,4,A,2020,1.82554,1.85229
 2021-05-23,Fulham,Newcastle United,0,2,A,2020,0.98902,1.60157
 2021-05-23,Aston Villa,Chelsea,2,1,H,2020,0.980413,3.43414
 2021-05-23,Arsenal,Brighton,2,0,H,2020,0.772904,0.193968
-2021-05-23,Leicester,Tottenham,2,4,A,2020,1.82554,1.85229
+2021-05-23,Liverpool,Crystal Palace,2,0,H,2020,2.20348,0.772317
 2021-08-13,Brentford,Arsenal,2,0,H,2021,1.88818,1.02385
 2021-08-14,Norwich,Liverpool,0,3,A,2021,1.3333,1.78728
-2021-08-14,Watford,Aston Villa,3,2,H,2021,1.35036,1.13718
 2021-08-14,Leicester,Wolves,1,0,H,2021,0.668082,1.32714
-2021-08-14,Everton,Southampton,3,1,H,2021,2.38863,0.580601
+2021-08-14,Watford,Aston Villa,3,2,H,2021,1.35036,1.13718
+2021-08-14,Chelsea,Crystal Palace,3,0,H,2021,1.18709,0.321701
 2021-08-14,Burnley,Brighton,1,2,A,2021,1.79548,1.6853
 2021-08-14,Manchester United,Leeds,5,1,H,2021,1.64248,0.568342
-2021-08-14,Chelsea,Crystal Palace,3,0,H,2021,1.18709,0.321701
+2021-08-14,Everton,Southampton,3,1,H,2021,2.38863,0.580601
 2021-08-15,Newcastle United,West Ham,2,4,A,2021,1.67926,3.00939
 2021-08-15,Tottenham,Manchester City,1,0,H,2021,1.06014,2.10585
-2021-08-21,Brighton,Watford,2,0,H,2021,1.77896,0.407224
-2021-08-21,Manchester City,Norwich,5,0,H,2021,2.43928,0.0250088
-2021-08-21,Leeds,Everton,2,2,D,2021,0.966093,1.85713
-2021-08-21,Crystal Palace,Brentford,0,0,D,2021,0.606313,0.712439
-2021-08-21,Aston Villa,Newcastle United,2,0,H,2021,1.18426,0.63163
 2021-08-21,Liverpool,Burnley,2,0,H,2021,2.63945,0.690464
+2021-08-21,Aston Villa,Newcastle United,2,0,H,2021,1.18426,0.63163
+2021-08-21,Crystal Palace,Brentford,0,0,D,2021,0.606313,0.712439
+2021-08-21,Leeds,Everton,2,2,D,2021,0.966093,1.85713
+2021-08-21,Manchester City,Norwich,5,0,H,2021,2.43928,0.0250088
+2021-08-21,Brighton,Watford,2,0,H,2021,1.77896,0.407224
+2021-08-22,Arsenal,Chelsea,0,2,A,2021,0.630099,3.64132
 2021-08-22,Southampton,Manchester United,1,1,D,2021,0.587526,2.26173
 2021-08-22,Wolves,Tottenham,0,1,A,2021,1.51127,1.72636
-2021-08-22,Arsenal,Chelsea,0,2,A,2021,0.630099,3.64132
 2021-08-23,West Ham,Leicester,4,1,H,2021,2.28613,0.62676
-2021-08-28,Liverpool,Chelsea,1,1,D,2021,2.08462,0.573638
-2021-08-28,West Ham,Crystal Palace,2,2,D,2021,1.44748,1.67658
-2021-08-28,Norwich,Leicester,1,2,A,2021,1.44084,1.27371
-2021-08-28,Brighton,Everton,0,2,A,2021,0.701622,1.54868
-2021-08-28,Aston Villa,Brentford,1,1,D,2021,0.431464,1.13312
 2021-08-28,Manchester City,Arsenal,5,0,H,2021,4.47273,0.116805
+2021-08-28,Aston Villa,Brentford,1,1,D,2021,0.431464,1.13312
+2021-08-28,Brighton,Everton,0,2,A,2021,0.701622,1.54868
 2021-08-28,Newcastle United,Southampton,2,2,D,2021,1.19077,3.46036
+2021-08-28,Norwich,Leicester,1,2,A,2021,1.44084,1.27371
+2021-08-28,West Ham,Crystal Palace,2,2,D,2021,1.44748,1.67658
+2021-08-28,Liverpool,Chelsea,1,1,D,2021,2.08462,0.573638
 2021-08-29,Burnley,Leeds,1,1,D,2021,1.71102,1.52078
 2021-08-29,Tottenham,Watford,1,0,H,2021,0.920963,0.596016
 2021-08-29,Wolves,Manchester United,0,1,A,2021,1.79575,0.944083
-2021-09-11,Chelsea,Aston Villa,3,0,H,2021,1.22153,1.17349
-2021-09-11,Manchester United,Newcastle United,4,1,H,2021,2.77326,0.622042
-2021-09-11,Southampton,West Ham,0,0,D,2021,0.692135,0.725407
 2021-09-11,Watford,Wolves,0,2,A,2021,0.185407,2.55922
+2021-09-11,Southampton,West Ham,0,0,D,2021,0.692135,0.725407
+2021-09-11,Manchester United,Newcastle United,4,1,H,2021,2.77326,0.622042
+2021-09-11,Chelsea,Aston Villa,3,0,H,2021,1.22153,1.17349
 2021-09-11,Leicester,Manchester City,0,1,A,2021,0.8001,2.75058
 2021-09-11,Brentford,Brighton,0,1,A,2021,0.729786,0.287902
-2021-09-11,Crystal Palace,Tottenham,3,0,H,2021,2.89372,0.0775646
 2021-09-11,Arsenal,Norwich,1,0,H,2021,2.68515,0.577292
+2021-09-11,Crystal Palace,Tottenham,3,0,H,2021,2.89372,0.0775646
 2021-09-12,Leeds,Liverpool,0,3,A,2021,0.652514,4.4016
 2021-09-13,Everton,Burnley,3,1,H,2021,1.80386,1.82061
 2021-09-17,Newcastle United,Leeds,1,1,D,2021,1.17668,1.42995
-2021-09-18,Liverpool,Crystal Palace,3,0,H,2021,2.76793,0.644168
 2021-09-18,Wolves,Brentford,0,2,A,2021,1.02316,2.32741
 2021-09-18,Burnley,Arsenal,0,1,A,2021,0.775574,1.09928
+2021-09-18,Liverpool,Crystal Palace,3,0,H,2021,2.76793,0.644168
 2021-09-18,Manchester City,Southampton,0,0,D,2021,1.22451,0.490923
 2021-09-18,Norwich,Watford,1,3,A,2021,0.782665,2.42487
 2021-09-18,Aston Villa,Everton,3,0,H,2021,0.777716,0.755035
@@ -1570,110 +1570,110 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2021-09-19,West Ham,Manchester United,1,2,A,2021,1.6671,1.8954
 2021-09-19,Tottenham,Chelsea,0,3,A,2021,0.70567,2.5869
 2021-09-25,Brentford,Liverpool,3,3,D,2021,2.94058,2.25736
-2021-09-25,Leeds,West Ham,1,2,A,2021,1.1967,1.98962
 2021-09-25,Watford,Newcastle United,1,1,D,2021,0.904061,2.52338
 2021-09-25,Leicester,Burnley,2,2,D,2021,2.16233,0.428866
-2021-09-25,Chelsea,Manchester City,0,1,A,2021,0.194202,1.69244
+2021-09-25,Leeds,West Ham,1,2,A,2021,1.1967,1.98962
 2021-09-25,Everton,Norwich,2,0,H,2021,2.26681,0.800903
 2021-09-25,Manchester United,Aston Villa,0,1,A,2021,1.9251,1.57249
+2021-09-25,Chelsea,Manchester City,0,1,A,2021,0.194202,1.69244
 2021-09-26,Southampton,Wolves,0,1,A,2021,0.909342,0.909833
 2021-09-26,Arsenal,Tottenham,3,1,H,2021,1.44499,0.980166
 2021-09-27,Crystal Palace,Brighton,1,1,D,2021,1.36836,0.649566
-2021-10-02,Brighton,Arsenal,0,0,D,2021,1.11551,0.36431
 2021-10-02,Manchester United,Everton,1,1,D,2021,1.0496,1.32211
 2021-10-02,Burnley,Norwich,0,0,D,2021,0.584725,0.673617
 2021-10-02,Chelsea,Southampton,3,1,H,2021,3.79243,1.52634
 2021-10-02,Leeds,Watford,1,0,H,2021,1.57388,0.192794
+2021-10-02,Brighton,Arsenal,0,0,D,2021,1.11551,0.36431
 2021-10-02,Wolves,Newcastle United,2,1,H,2021,1.15849,0.865217
-2021-10-03,Liverpool,Manchester City,2,2,D,2021,0.949368,1.04319
-2021-10-03,West Ham,Brentford,1,2,A,2021,1.37258,1.30098
 2021-10-03,Crystal Palace,Leicester,2,2,D,2021,1.1703,1.04322
 2021-10-03,Tottenham,Aston Villa,2,1,H,2021,1.78187,1.07395
+2021-10-03,West Ham,Brentford,1,2,A,2021,1.37258,1.30098
+2021-10-03,Liverpool,Manchester City,2,2,D,2021,0.949368,1.04319
+2021-10-16,Southampton,Leeds,1,0,H,2021,1.83082,0.446173
 2021-10-16,Brentford,Chelsea,0,1,A,2021,1.62169,0.248256
 2021-10-16,Norwich,Brighton,0,0,D,2021,1.16088,1.17572
-2021-10-16,Manchester City,Burnley,2,0,H,2021,2.15712,1.07719
-2021-10-16,Southampton,Leeds,1,0,H,2021,1.83082,0.446173
-2021-10-16,Aston Villa,Wolves,2,3,A,2021,1.21276,2.19633
-2021-10-16,Watford,Liverpool,0,5,A,2021,0.302302,3.65553
 2021-10-16,Leicester,Manchester United,4,2,H,2021,2.96611,1.02494
-2021-10-17,Everton,West Ham,0,1,A,2021,0.854165,2.03034
+2021-10-16,Watford,Liverpool,0,5,A,2021,0.302302,3.65553
+2021-10-16,Manchester City,Burnley,2,0,H,2021,2.15712,1.07719
+2021-10-16,Aston Villa,Wolves,2,3,A,2021,1.21276,2.19633
 2021-10-17,Newcastle United,Tottenham,2,3,A,2021,0.645658,1.55008
+2021-10-17,Everton,West Ham,0,1,A,2021,0.854165,2.03034
 2021-10-18,Arsenal,Crystal Palace,2,2,D,2021,1.7436,0.492239
 2021-10-22,Arsenal,Aston Villa,3,1,H,2021,3.4984,1.41088
-2021-10-23,Brighton,Manchester City,1,4,A,2021,1.1695,3.57376
-2021-10-23,Leeds,Wolves,1,1,D,2021,1.71313,0.858644
-2021-10-23,Everton,Watford,2,5,A,2021,1.84089,3.10344
-2021-10-23,Southampton,Burnley,2,2,D,2021,1.42567,0.673195
 2021-10-23,Chelsea,Norwich,7,0,H,2021,3.10509,0.267429
 2021-10-23,Crystal Palace,Newcastle United,1,1,D,2021,2.25588,0.721813
+2021-10-23,Everton,Watford,2,5,A,2021,1.84089,3.10344
+2021-10-23,Southampton,Burnley,2,2,D,2021,1.42567,0.673195
+2021-10-23,Brighton,Manchester City,1,4,A,2021,1.1695,3.57376
+2021-10-23,Leeds,Wolves,1,1,D,2021,1.71313,0.858644
 2021-10-24,Brentford,Leicester,1,2,A,2021,1.16789,1.00254
 2021-10-24,West Ham,Tottenham,1,0,H,2021,1.73468,0.672198
 2021-10-24,Manchester United,Liverpool,0,5,A,2021,1.35584,4.04765
-2021-10-30,Leicester,Arsenal,0,2,A,2021,1.98801,1.10288
-2021-10-30,Burnley,Brentford,3,1,H,2021,2.72901,0.834312
-2021-10-30,Liverpool,Brighton,2,2,D,2021,1.39778,1.51032
-2021-10-30,Manchester City,Crystal Palace,0,2,A,2021,0.65739,1.05029
-2021-10-30,Newcastle United,Chelsea,0,3,A,2021,0.157616,2.16608
 2021-10-30,Watford,Southampton,0,1,A,2021,0.852556,1.90757
 2021-10-30,Tottenham,Manchester United,0,3,A,2021,1.15787,1.38612
-2021-10-31,Norwich,Leeds,1,2,A,2021,0.661887,1.16855
+2021-10-30,Manchester City,Crystal Palace,0,2,A,2021,0.65739,1.05029
+2021-10-30,Liverpool,Brighton,2,2,D,2021,1.39778,1.51032
+2021-10-30,Newcastle United,Chelsea,0,3,A,2021,0.157616,2.16608
+2021-10-30,Leicester,Arsenal,0,2,A,2021,1.98801,1.10288
+2021-10-30,Burnley,Brentford,3,1,H,2021,2.72901,0.834312
 2021-10-31,Aston Villa,West Ham,1,4,A,2021,0.687551,2.66391
+2021-10-31,Norwich,Leeds,1,2,A,2021,0.661887,1.16855
 2021-11-01,Wolves,Everton,2,1,H,2021,1.69344,1.69767
 2021-11-05,Southampton,Aston Villa,1,0,H,2021,0.89818,0.536077
+2021-11-06,Manchester United,Manchester City,0,2,A,2021,0.759561,2.04202
 2021-11-06,Brentford,Norwich,1,2,A,2021,2.79229,1.15797
 2021-11-06,Chelsea,Burnley,1,1,D,2021,3.00585,0.674072
 2021-11-06,Crystal Palace,Wolves,2,0,H,2021,2.65161,0.25416
 2021-11-06,Brighton,Newcastle United,1,1,D,2021,1.43123,0.227321
-2021-11-06,Manchester United,Manchester City,0,2,A,2021,0.759561,2.04202
-2021-11-07,Leeds,Leicester,1,1,D,2021,1.96551,0.795292
 2021-11-07,Arsenal,Watford,1,0,H,2021,1.49208,0.491659
 2021-11-07,Everton,Tottenham,0,0,D,2021,0.597906,0.801798
+2021-11-07,Leeds,Leicester,1,1,D,2021,1.96551,0.795292
 2021-11-07,West Ham,Liverpool,3,2,H,2021,1.25298,1.45641
-2021-11-20,Liverpool,Arsenal,4,0,H,2021,3.97374,0.268025
 2021-11-20,Leicester,Chelsea,0,3,A,2021,0.499504,2.57178
-2021-11-20,Aston Villa,Brighton,2,0,H,2021,1.06946,0.582787
-2021-11-20,Burnley,Crystal Palace,3,3,D,2021,1.04224,1.74839
 2021-11-20,Newcastle United,Brentford,3,3,D,2021,2.18388,1.23275
+2021-11-20,Burnley,Crystal Palace,3,3,D,2021,1.04224,1.74839
 2021-11-20,Norwich,Southampton,2,1,H,2021,0.43778,1.13118
 2021-11-20,Watford,Manchester United,4,1,H,2021,2.73393,1.66794
 2021-11-20,Wolves,West Ham,1,0,H,2021,1.31903,0.436331
+2021-11-20,Liverpool,Arsenal,4,0,H,2021,3.97374,0.268025
+2021-11-20,Aston Villa,Brighton,2,0,H,2021,1.06946,0.582787
 2021-11-21,Manchester City,Everton,3,0,H,2021,2.61302,0.266894
 2021-11-21,Tottenham,Leeds,2,1,H,2021,2.31744,1.46689
-2021-11-27,Arsenal,Newcastle United,2,0,H,2021,2.84493,0.185383
+2021-11-27,Brighton,Leeds,0,0,D,2021,1.90498,0.864829
 2021-11-27,Crystal Palace,Aston Villa,1,2,A,2021,0.962129,0.454305
 2021-11-27,Liverpool,Southampton,4,0,H,2021,3.07278,0.966132
+2021-11-27,Arsenal,Newcastle United,2,0,H,2021,2.84493,0.185383
 2021-11-27,Norwich,Wolves,0,0,D,2021,1.4047,0.297157
-2021-11-27,Brighton,Leeds,0,0,D,2021,1.90498,0.864829
 2021-11-28,Brentford,Everton,1,0,H,2021,1.19813,0.968075
 2021-11-28,Leicester,Watford,4,2,H,2021,2.16027,2.38383
 2021-11-28,Manchester City,West Ham,2,1,H,2021,2.72187,0.171763
 2021-11-28,Chelsea,Manchester United,1,1,D,2021,2.34525,0.563367
 2021-11-30,Newcastle United,Norwich,1,1,D,2021,1.15636,1.51084
 2021-11-30,Leeds,Crystal Palace,1,0,H,2021,1.9818,0.707328
-2021-12-01,Wolves,Burnley,0,0,D,2021,0.711691,0.195537
-2021-12-01,Everton,Liverpool,1,4,A,2021,0.512263,2.86067
-2021-12-01,Aston Villa,Manchester City,1,2,A,2021,0.772083,1.01897
-2021-12-01,Watford,Chelsea,1,2,A,2021,0.990877,0.908574
 2021-12-01,Southampton,Leicester,2,2,D,2021,1.91169,1.4401
+2021-12-01,Watford,Chelsea,1,2,A,2021,0.990877,0.908574
 2021-12-01,West Ham,Brighton,1,1,D,2021,1.14679,1.2607
-2021-12-02,Tottenham,Brentford,2,0,H,2021,2.07248,0.225492
+2021-12-01,Wolves,Burnley,0,0,D,2021,0.711691,0.195537
+2021-12-01,Aston Villa,Manchester City,1,2,A,2021,0.772083,1.01897
+2021-12-01,Everton,Liverpool,1,4,A,2021,0.512263,2.86067
 2021-12-02,Manchester United,Arsenal,3,2,H,2021,1.85597,1.16638
-2021-12-04,West Ham,Chelsea,3,2,H,2021,2.0174,1.37049
+2021-12-02,Tottenham,Brentford,2,0,H,2021,2.07248,0.225492
 2021-12-04,Newcastle United,Burnley,1,0,H,2021,1.70609,0.604599
 2021-12-04,Southampton,Brighton,1,1,D,2021,1.34236,1.4872
 2021-12-04,Wolves,Liverpool,0,1,A,2021,0.095167,2.42332
 2021-12-04,Watford,Manchester City,1,3,A,2021,0.675105,4.03223
-2021-12-05,Aston Villa,Leicester,2,1,H,2021,1.84818,0.982614
-2021-12-05,Manchester United,Crystal Palace,1,0,H,2021,0.870376,0.520593
+2021-12-04,West Ham,Chelsea,3,2,H,2021,2.0174,1.37049
 2021-12-05,Leeds,Brentford,2,2,D,2021,1.41896,1.19959
+2021-12-05,Manchester United,Crystal Palace,1,0,H,2021,0.870376,0.520593
 2021-12-05,Tottenham,Norwich,3,0,H,2021,2.00668,1.06562
+2021-12-05,Aston Villa,Leicester,2,1,H,2021,1.84818,0.982614
 2021-12-06,Everton,Arsenal,2,1,H,2021,1.06108,1.05723
 2021-12-10,Brentford,Watford,2,1,H,2021,1.82799,0.561554
 2021-12-11,Norwich,Manchester United,0,1,A,2021,0.986107,2.09817
-2021-12-11,Liverpool,Aston Villa,1,0,H,2021,2.71181,0.140573
+2021-12-11,Manchester City,Wolves,1,0,H,2021,2.99915,0.0762839
 2021-12-11,Chelsea,Leeds,3,2,H,2021,2.74844,1.72934
 2021-12-11,Arsenal,Southampton,3,0,H,2021,2.08429,0.502215
-2021-12-11,Manchester City,Wolves,1,0,H,2021,2.99915,0.0762839
+2021-12-11,Liverpool,Aston Villa,1,0,H,2021,2.71181,0.140573
 2021-12-12,Burnley,West Ham,0,0,D,2021,0.54801,0.998813
 2021-12-12,Leicester,Newcastle United,4,0,H,2021,2.05771,0.511934
 2021-12-12,Crystal Palace,Everton,3,1,H,2021,2.09864,1.27556
@@ -1685,26 +1685,26 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2021-12-16,Chelsea,Everton,1,1,D,2021,3.20239,0.627528
 2021-12-16,Liverpool,Newcastle United,3,1,H,2021,2.93912,0.2064
 2021-12-18,Leeds,Arsenal,1,4,A,2021,1.31408,3.69008
-2021-12-19,Tottenham,Liverpool,2,2,D,2021,2.79777,1.54944
-2021-12-19,Wolves,Chelsea,0,0,D,2021,0.321371,0.793952
 2021-12-19,Newcastle United,Manchester City,0,4,A,2021,0.174208,3.64686
-2021-12-26,Manchester City,Leicester,6,3,H,2021,3.82869,2.43425
-2021-12-26,Norwich,Arsenal,0,5,A,2021,0.154212,2.87539
-2021-12-26,Tottenham,Crystal Palace,3,0,H,2021,2.82148,0.178324
-2021-12-26,West Ham,Southampton,2,3,A,2021,1.53745,1.35643
-2021-12-26,Aston Villa,Chelsea,1,3,A,2021,0.474029,2.8285
+2021-12-19,Wolves,Chelsea,0,0,D,2021,0.321371,0.793952
+2021-12-19,Tottenham,Liverpool,2,2,D,2021,2.79777,1.54944
 2021-12-26,Brighton,Brentford,2,0,H,2021,0.943363,1.10342
+2021-12-26,Aston Villa,Chelsea,1,3,A,2021,0.474029,2.8285
+2021-12-26,West Ham,Southampton,2,3,A,2021,1.53745,1.35643
+2021-12-26,Manchester City,Leicester,6,3,H,2021,3.82869,2.43425
+2021-12-26,Tottenham,Crystal Palace,3,0,H,2021,2.82148,0.178324
+2021-12-26,Norwich,Arsenal,0,5,A,2021,0.154212,2.87539
 2021-12-27,Newcastle United,Manchester United,1,1,D,2021,1.26586,1.75587
-2021-12-28,Watford,West Ham,1,4,A,2021,1.0143,2.84084
 2021-12-28,Crystal Palace,Norwich,3,0,H,2021,2.38978,0.594134
 2021-12-28,Southampton,Tottenham,1,1,D,2021,0.353043,2.80917
+2021-12-28,Watford,West Ham,1,4,A,2021,1.0143,2.84084
 2021-12-28,Leicester,Liverpool,1,0,H,2021,0.615892,2.72682
 2021-12-29,Chelsea,Brighton,1,1,D,2021,0.763458,0.78663
 2021-12-29,Brentford,Manchester City,0,1,A,2021,0.238829,1.01763
 2021-12-30,Manchester United,Burnley,3,1,H,2021,1.80776,0.871738
+2022-01-01,Arsenal,Manchester City,1,2,A,2021,0.836949,1.94623
 2022-01-01,Watford,Tottenham,0,1,A,2021,0.303514,1.93752
 2022-01-01,Crystal Palace,West Ham,2,3,A,2021,2.69204,2.23146
-2022-01-01,Arsenal,Manchester City,1,2,A,2021,0.836949,1.94623
 2022-01-02,Chelsea,Liverpool,2,2,D,2021,1.389,1.78897
 2022-01-02,Everton,Brighton,2,3,A,2021,1.82698,1.48397
 2022-01-02,Brentford,Aston Villa,2,1,H,2021,0.501329,1.13821
@@ -1724,43 +1724,43 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2022-01-19,Leicester,Tottenham,2,3,A,2021,1.95031,4.24711
 2022-01-19,Brentford,Manchester United,1,3,A,2021,2.081,2.05969
 2022-01-21,Watford,Norwich,0,3,A,2021,1.30606,0.925212
-2022-01-22,Leeds,Newcastle United,0,1,A,2021,1.12992,1.15904
 2022-01-22,Manchester United,West Ham,1,0,H,2021,1.75857,0.238027
 2022-01-22,Southampton,Manchester City,1,1,D,2021,1.00222,1.62907
 2022-01-22,Everton,Aston Villa,0,1,A,2021,1.2384,0.860245
 2022-01-22,Brentford,Wolves,1,2,A,2021,0.742573,0.218211
-2022-01-23,Arsenal,Burnley,0,0,D,2021,1.35507,0.388963
-2022-01-23,Crystal Palace,Liverpool,1,3,A,2021,1.62615,1.49697
+2022-01-22,Leeds,Newcastle United,0,1,A,2021,1.12992,1.15904
 2022-01-23,Leicester,Brighton,1,1,D,2021,1.70979,1.19738
 2022-01-23,Chelsea,Tottenham,2,0,H,2021,1.04212,0.328818
+2022-01-23,Arsenal,Burnley,0,0,D,2021,1.35507,0.388963
+2022-01-23,Crystal Palace,Liverpool,1,3,A,2021,1.62615,1.49697
 2022-02-05,Burnley,Watford,0,0,D,2021,0.765905,0.933965
 2022-02-08,Newcastle United,Everton,3,1,H,2021,2.68732,0.823607
 2022-02-08,West Ham,Watford,1,0,H,2021,0.905143,0.335474
 2022-02-08,Burnley,Manchester United,1,1,D,2021,0.772721,1.83387
+2022-02-09,Manchester City,Brentford,2,0,H,2021,1.98246,0.461305
 2022-02-09,Norwich,Crystal Palace,1,1,D,2021,0.296411,1.22883
 2022-02-09,Tottenham,Southampton,2,3,A,2021,1.74286,1.73293
-2022-02-09,Manchester City,Brentford,2,0,H,2021,1.98246,0.461305
 2022-02-09,Aston Villa,Leeds,3,3,D,2021,1.5013,2.52914
 2022-02-10,Liverpool,Leicester,2,0,H,2021,2.72997,0.544954
 2022-02-10,Wolves,Arsenal,0,1,A,2021,0.641359,1.45247
-2022-02-12,Watford,Brighton,0,2,A,2021,0.532979,1.80456
 2022-02-12,Manchester United,Southampton,1,1,D,2021,2.99207,0.677386
 2022-02-12,Brentford,Crystal Palace,0,0,D,2021,1.97576,0.49802
 2022-02-12,Everton,Leeds,3,0,H,2021,2.58561,0.242668
+2022-02-12,Watford,Brighton,0,2,A,2021,0.532979,1.80456
 2022-02-12,Norwich,Manchester City,0,4,A,2021,0.356755,4.44653
-2022-02-13,Tottenham,Wolves,0,2,A,2021,0.838197,1.87026
-2022-02-13,Newcastle United,Aston Villa,1,0,H,2021,0.527571,0.455206
-2022-02-13,Leicester,West Ham,2,2,D,2021,1.40693,0.745068
 2022-02-13,Burnley,Liverpool,0,1,A,2021,1.16081,1.95722
+2022-02-13,Newcastle United,Aston Villa,1,0,H,2021,0.527571,0.455206
+2022-02-13,Tottenham,Wolves,0,2,A,2021,0.838197,1.87026
+2022-02-13,Leicester,West Ham,2,2,D,2021,1.40693,0.745068
 2022-02-15,Manchester United,Brighton,2,0,H,2021,2.74936,1.26179
-2022-02-19,Liverpool,Norwich,3,1,H,2021,3.15449,0.66975
 2022-02-19,Manchester City,Tottenham,2,3,A,2021,2.31773,2.00235
 2022-02-19,Southampton,Everton,2,0,H,2021,2.72851,0.19991
-2022-02-19,Brighton,Burnley,0,3,A,2021,0.44587,0.821228
+2022-02-19,Liverpool,Norwich,3,1,H,2021,3.15449,0.66975
 2022-02-19,Crystal Palace,Chelsea,0,1,A,2021,0.624023,1.12339
+2022-02-19,Aston Villa,Watford,0,1,A,2021,1.0267,1.82051
 2022-02-19,Arsenal,Brentford,2,1,H,2021,1.52247,0.640726
 2022-02-19,West Ham,Newcastle United,1,1,D,2021,0.847948,0.932574
-2022-02-19,Aston Villa,Watford,0,1,A,2021,1.0267,1.82051
+2022-02-19,Brighton,Burnley,0,3,A,2021,0.44587,0.821228
 2022-02-20,Leeds,Manchester United,2,4,A,2021,1.74476,2.60999
 2022-02-20,Wolves,Leicester,2,1,H,2021,0.472777,1.55048
 2022-02-23,Watford,Crystal Palace,1,4,A,2021,1.71917,0.818403
@@ -1777,28 +1777,28 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2022-02-27,West Ham,Wolves,1,0,H,2021,1.62241,0.892018
 2022-03-01,Burnley,Leicester,0,2,A,2021,1.04214,1.79558
 2022-03-05,Liverpool,West Ham,1,0,H,2021,2.18865,1.33829
-2022-03-05,Norwich,Brentford,1,3,A,2021,0.77334,2.22064
-2022-03-05,Newcastle United,Brighton,2,1,H,2021,1.58028,1.64995
 2022-03-05,Wolves,Crystal Palace,0,2,A,2021,0.710865,2.53759
+2022-03-05,Norwich,Brentford,1,3,A,2021,0.77334,2.22064
 2022-03-05,Aston Villa,Southampton,4,0,H,2021,2.85379,1.32947
-2022-03-05,Leicester,Leeds,1,0,H,2021,0.359129,2.14389
 2022-03-05,Burnley,Chelsea,0,4,A,2021,0.849232,2.2868
+2022-03-05,Leicester,Leeds,1,0,H,2021,0.359129,2.14389
+2022-03-05,Newcastle United,Brighton,2,1,H,2021,1.58028,1.64995
 2022-03-06,Watford,Arsenal,2,3,A,2021,1.29603,1.00457
 2022-03-06,Manchester City,Manchester United,4,1,H,2021,2.74434,0.361782
 2022-03-07,Tottenham,Everton,5,0,H,2021,3.24279,0.208263
-2022-03-10,Leeds,Aston Villa,0,3,A,2021,0.194028,1.2729
 2022-03-10,Wolves,Watford,4,0,H,2021,1.55037,0.498696
-2022-03-10,Norwich,Chelsea,1,3,A,2021,0.965723,2.1308
 2022-03-10,Southampton,Newcastle United,1,2,A,2021,1.79835,0.812233
+2022-03-10,Leeds,Aston Villa,0,3,A,2021,0.194028,1.2729
+2022-03-10,Norwich,Chelsea,1,3,A,2021,0.965723,2.1308
+2022-03-12,Manchester United,Tottenham,3,2,H,2021,1.0181,1.62374
 2022-03-12,Brighton,Liverpool,0,2,A,2021,0.629316,2.48312
 2022-03-12,Brentford,Burnley,2,0,H,2021,1.82002,0.825311
-2022-03-12,Manchester United,Tottenham,3,2,H,2021,1.0181,1.62374
-2022-03-13,West Ham,Aston Villa,2,1,H,2021,1.58468,1.05391
-2022-03-13,Chelsea,Newcastle United,1,0,H,2021,1.07072,0.246037
-2022-03-13,Leeds,Norwich,2,1,H,2021,3.11755,1.40148
-2022-03-13,Southampton,Watford,1,2,A,2021,1.25696,1.29385
-2022-03-13,Arsenal,Leicester,2,0,H,2021,2.93665,0.54911
 2022-03-13,Everton,Wolves,0,1,A,2021,0.397268,0.712135
+2022-03-13,Leeds,Norwich,2,1,H,2021,3.11755,1.40148
+2022-03-13,West Ham,Aston Villa,2,1,H,2021,1.58468,1.05391
+2022-03-13,Arsenal,Leicester,2,0,H,2021,2.93665,0.54911
+2022-03-13,Chelsea,Newcastle United,1,0,H,2021,1.07072,0.246037
+2022-03-13,Southampton,Watford,1,2,A,2021,1.25696,1.29385
 2022-03-14,Crystal Palace,Manchester City,0,0,D,2021,0.474002,2.04021
 2022-03-16,Brighton,Tottenham,0,2,A,2021,1.04171,2.05196
 2022-03-16,Arsenal,Liverpool,0,2,A,2021,0.534265,1.27681
@@ -1807,202 +1807,202 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2022-03-19,Aston Villa,Arsenal,0,1,A,2021,0.309375,1.14522
 2022-03-20,Leicester,Brentford,2,1,H,2021,1.27865,1.72466
 2022-03-20,Tottenham,West Ham,3,1,H,2021,2.54795,0.644964
+2022-04-02,Burnley,Manchester City,0,2,A,2021,0.0591223,1.62008
+2022-04-02,Manchester United,Leicester,1,1,D,2021,0.902127,1.07638
+2022-04-02,Wolves,Aston Villa,2,1,H,2021,1.62151,1.91256
+2022-04-02,Leeds,Southampton,1,1,D,2021,1.50715,2.06387
 2022-04-02,Liverpool,Watford,2,0,H,2021,2.23651,0.753307
 2022-04-02,Brighton,Norwich,0,0,D,2021,2.38297,0.494112
 2022-04-02,Chelsea,Brentford,1,4,A,2021,1.29014,2.43422
-2022-04-02,Leeds,Southampton,1,1,D,2021,1.50715,2.06387
-2022-04-02,Wolves,Aston Villa,2,1,H,2021,1.62151,1.91256
-2022-04-02,Manchester United,Leicester,1,1,D,2021,0.902127,1.07638
-2022-04-02,Burnley,Manchester City,0,2,A,2021,0.0591223,1.62008
 2022-04-03,West Ham,Everton,2,1,H,2021,1.49657,0.657846
 2022-04-03,Tottenham,Newcastle United,5,1,H,2021,3.6081,0.538152
 2022-04-04,Crystal Palace,Arsenal,3,0,H,2021,1.39707,1.05199
 2022-04-06,Burnley,Everton,3,2,H,2021,2.24439,2.31574
 2022-04-08,Newcastle United,Wolves,1,0,H,2021,1.43878,0.306867
 2022-04-09,Everton,Manchester United,1,0,H,2021,0.357295,0.762357
-2022-04-09,Southampton,Chelsea,0,6,A,2021,0.564726,4.39683
-2022-04-09,Watford,Leeds,0,3,A,2021,1.07422,0.895612
-2022-04-09,Aston Villa,Tottenham,0,4,A,2021,1.48712,0.983601
 2022-04-09,Arsenal,Brighton,1,2,A,2021,2.35153,0.596106
+2022-04-09,Southampton,Chelsea,0,6,A,2021,0.564726,4.39683
+2022-04-09,Aston Villa,Tottenham,0,4,A,2021,1.48712,0.983601
+2022-04-09,Watford,Leeds,0,3,A,2021,1.07422,0.895612
 2022-04-10,Brentford,West Ham,2,0,H,2021,1.85534,0.244824
 2022-04-10,Leicester,Crystal Palace,2,1,H,2021,0.879235,1.52767
 2022-04-10,Norwich,Burnley,2,0,H,2021,1.6723,1.44652
 2022-04-10,Manchester City,Liverpool,2,2,D,2021,1.34647,1.29983
-2022-04-16,Southampton,Arsenal,1,0,H,2021,1.04007,1.35002
-2022-04-16,Watford,Brentford,1,2,A,2021,1.50381,2.12457
 2022-04-16,Tottenham,Brighton,0,1,A,2021,0.58624,0.711155
 2022-04-16,Manchester United,Norwich,3,2,H,2021,1.66737,1.79754
-2022-04-17,Newcastle United,Leicester,2,1,H,2021,2.54294,0.541084
+2022-04-16,Southampton,Arsenal,1,0,H,2021,1.04007,1.35002
+2022-04-16,Watford,Brentford,1,2,A,2021,1.50381,2.12457
 2022-04-17,West Ham,Burnley,1,1,D,2021,2.79175,1.88137
+2022-04-17,Newcastle United,Leicester,2,1,H,2021,2.54294,0.541084
 2022-04-19,Liverpool,Manchester United,4,0,H,2021,2.25967,0.110227
-2022-04-20,Chelsea,Arsenal,2,4,A,2021,0.593801,1.87331
-2022-04-20,Everton,Leicester,1,1,D,2021,1.68819,0.786333
-2022-04-20,Newcastle United,Crystal Palace,1,0,H,2021,0.767855,0.432788
 2022-04-20,Manchester City,Brighton,3,0,H,2021,1.52844,0.117354
+2022-04-20,Newcastle United,Crystal Palace,1,0,H,2021,0.767855,0.432788
+2022-04-20,Everton,Leicester,1,1,D,2021,1.68819,0.786333
+2022-04-20,Chelsea,Arsenal,2,4,A,2021,0.593801,1.87331
 2022-04-21,Burnley,Southampton,2,0,H,2021,2.14743,1.31837
-2022-04-23,Leicester,Aston Villa,0,0,D,2021,0.235635,0.593202
-2022-04-23,Brentford,Tottenham,0,0,D,2021,1.3153,0.517755
-2022-04-23,Arsenal,Manchester United,3,1,H,2021,2.54173,2.04244
-2022-04-23,Manchester City,Watford,5,1,H,2021,3.68,0.42632
 2022-04-23,Norwich,Newcastle United,0,3,A,2021,0.657661,1.87558
-2022-04-24,Brighton,Southampton,2,2,D,2021,1.87343,0.926764
-2022-04-24,Burnley,Wolves,1,0,H,2021,1.27298,0.592902
-2022-04-24,Chelsea,West Ham,1,0,H,2021,2.34959,0.388975
+2022-04-23,Arsenal,Manchester United,3,1,H,2021,2.54173,2.04244
+2022-04-23,Leicester,Aston Villa,0,0,D,2021,0.235635,0.593202
+2022-04-23,Manchester City,Watford,5,1,H,2021,3.68,0.42632
+2022-04-23,Brentford,Tottenham,0,0,D,2021,1.3153,0.517755
 2022-04-24,Liverpool,Everton,2,0,H,2021,1.70397,0.424961
+2022-04-24,Chelsea,West Ham,1,0,H,2021,2.34959,0.388975
+2022-04-24,Burnley,Wolves,1,0,H,2021,1.27298,0.592902
+2022-04-24,Brighton,Southampton,2,2,D,2021,1.87343,0.926764
 2022-04-25,Crystal Palace,Leeds,0,0,D,2021,1.61656,0.374044
 2022-04-28,Manchester United,Chelsea,1,1,D,2021,0.618456,2.46868
+2022-04-30,Leeds,Manchester City,0,4,A,2021,1.03608,3.01431
 2022-04-30,Wolves,Brighton,0,3,A,2021,0.525912,2.90679
 2022-04-30,Watford,Burnley,1,2,A,2021,0.785742,1.37022
-2022-04-30,Leeds,Manchester City,0,4,A,2021,1.03608,3.01431
-2022-04-30,Aston Villa,Norwich,2,0,H,2021,2.31192,0.352212
 2022-04-30,Newcastle United,Liverpool,0,1,A,2021,0.115353,2.73435
+2022-04-30,Aston Villa,Norwich,2,0,H,2021,2.31192,0.352212
 2022-04-30,Southampton,Crystal Palace,1,2,A,2021,0.650256,0.756217
 2022-05-01,Everton,Chelsea,1,0,H,2021,1.11712,1.21141
 2022-05-01,Tottenham,Leicester,3,1,H,2021,1.65338,0.274133
 2022-05-01,West Ham,Arsenal,1,2,A,2021,0.451976,0.964564
 2022-05-02,Manchester United,Brentford,3,0,H,2021,1.84111,0.681425
-2022-05-07,Liverpool,Tottenham,1,1,D,2021,1.0481,0.982635
-2022-05-07,Brighton,Manchester United,4,0,H,2021,2.82636,0.930715
-2022-05-07,Crystal Palace,Watford,1,0,H,2021,2.49142,0.255373
 2022-05-07,Brentford,Southampton,3,0,H,2021,3.68223,0.988574
 2022-05-07,Burnley,Aston Villa,1,3,A,2021,1.31028,1.81256
 2022-05-07,Chelsea,Wolves,2,2,D,2021,1.82098,1.6842
-2022-05-08,Manchester City,Newcastle United,5,0,H,2021,4.05613,0.995099
-2022-05-08,Leicester,Everton,1,2,A,2021,1.47479,1.55635
-2022-05-08,Arsenal,Leeds,2,1,H,2021,2.7227,0.696785
+2022-05-07,Crystal Palace,Watford,1,0,H,2021,2.49142,0.255373
+2022-05-07,Brighton,Manchester United,4,0,H,2021,2.82636,0.930715
+2022-05-07,Liverpool,Tottenham,1,1,D,2021,1.0481,0.982635
 2022-05-08,Norwich,West Ham,0,4,A,2021,0.77895,3.25894
+2022-05-08,Manchester City,Newcastle United,5,0,H,2021,4.05613,0.995099
+2022-05-08,Arsenal,Leeds,2,1,H,2021,2.7227,0.696785
+2022-05-08,Leicester,Everton,1,2,A,2021,1.47479,1.55635
 2022-05-10,Aston Villa,Liverpool,1,2,A,2021,1.44726,1.75417
-2022-05-11,Wolves,Manchester City,1,5,A,2021,0.411857,3.39304
+2022-05-11,Leeds,Chelsea,0,3,A,2021,0.499789,1.46853
 2022-05-11,Leicester,Norwich,3,0,H,2021,2.57058,1.21966
 2022-05-11,Watford,Everton,0,0,D,2021,0.232236,0.812193
-2022-05-11,Leeds,Chelsea,0,3,A,2021,0.499789,1.46853
+2022-05-11,Wolves,Manchester City,1,5,A,2021,0.411857,3.39304
 2022-05-12,Tottenham,Arsenal,3,0,H,2021,3.42522,0.387446
-2022-05-15,Wolves,Norwich,1,1,D,2021,0.999066,1.53212
-2022-05-15,West Ham,Manchester City,2,2,D,2021,1.0088,2.14723
-2022-05-15,Watford,Leicester,1,5,A,2021,2.58968,2.27297
-2022-05-15,Everton,Brentford,2,3,A,2021,2.69589,1.81626
-2022-05-15,Aston Villa,Crystal Palace,1,1,D,2021,0.799443,1.39009
 2022-05-15,Tottenham,Burnley,1,0,H,2021,2.39449,0.629888
+2022-05-15,Aston Villa,Crystal Palace,1,1,D,2021,0.799443,1.39009
 2022-05-15,Leeds,Brighton,1,1,D,2021,2.22282,2.25898
+2022-05-15,Watford,Leicester,1,5,A,2021,2.58968,2.27297
+2022-05-15,West Ham,Manchester City,2,2,D,2021,1.0088,2.14723
+2022-05-15,Wolves,Norwich,1,1,D,2021,0.999066,1.53212
+2022-05-15,Everton,Brentford,2,3,A,2021,2.69589,1.81626
 2022-05-16,Newcastle United,Arsenal,2,0,H,2021,1.68299,0.492454
 2022-05-17,Southampton,Liverpool,1,2,A,2021,0.121506,1.19178
 2022-05-19,Everton,Crystal Palace,3,2,H,2021,0.813157,1.6023
 2022-05-19,Aston Villa,Burnley,1,1,D,2021,0.996403,1.63117
 2022-05-19,Chelsea,Leicester,1,1,D,2021,1.61996,0.0417972
+2022-05-22,Norwich,Tottenham,0,5,A,2021,0.310789,3.815
 2022-05-22,Manchester City,Aston Villa,3,2,H,2021,3.3209,0.247841
-2022-05-22,Crystal Palace,Manchester United,1,0,H,2021,0.354618,0.782005
 2022-05-22,Liverpool,Wolves,3,1,H,2021,3.19385,1.11708
 2022-05-22,Leicester,Southampton,4,1,H,2021,3.42058,1.05141
-2022-05-22,Chelsea,Watford,2,1,H,2021,2.59231,0.575755
+2022-05-22,Crystal Palace,Manchester United,1,0,H,2021,0.354618,0.782005
 2022-05-22,Burnley,Newcastle United,1,2,A,2021,1.49164,1.74291
 2022-05-22,Brighton,West Ham,3,1,H,2021,1.67774,0.268845
 2022-05-22,Brentford,Leeds,1,2,A,2021,0.844985,1.47786
 2022-05-22,Arsenal,Everton,5,1,H,2021,4.35597,1.08601
-2022-05-22,Norwich,Tottenham,0,5,A,2021,0.310789,3.815
+2022-05-22,Chelsea,Watford,2,1,H,2021,2.59231,0.575755
 2022-08-05,Crystal Palace,Arsenal,0,2,A,2022,1.20637,1.43601
-2022-08-06,Everton,Chelsea,0,1,A,2022,0.541983,1.92315
 2022-08-06,Tottenham,Southampton,4,1,H,2022,1.6172,0.386546
+2022-08-06,Everton,Chelsea,0,1,A,2022,0.541983,1.92315
 2022-08-06,Newcastle United,Nottingham Forest,2,0,H,2022,1.8591,0.235825
+2022-08-06,Leeds,Wolves,2,1,H,2022,0.88917,1.10119
 2022-08-06,Bournemouth,Aston Villa,2,0,H,2022,0.588341,0.488895
 2022-08-06,Fulham,Liverpool,2,2,D,2022,1.26822,2.34111
-2022-08-06,Leeds,Wolves,2,1,H,2022,0.88917,1.10119
 2022-08-07,Leicester,Brentford,2,2,D,2022,0.455695,0.931067
 2022-08-07,Manchester United,Brighton,1,2,A,2022,1.42103,1.7289
 2022-08-07,West Ham,Manchester City,0,2,A,2022,0.246188,2.58739
-2022-08-13,Wolves,Fulham,0,0,D,2022,0.975375,1.08813
 2022-08-13,Brentford,Manchester United,4,0,H,2022,1.38785,0.896038
+2022-08-13,Wolves,Fulham,0,0,D,2022,0.975375,1.08813
 2022-08-13,Southampton,Leeds,2,2,D,2022,1.40906,1.99694
-2022-08-13,Brighton,Newcastle United,0,0,D,2022,1.60835,0.183952
 2022-08-13,Arsenal,Leicester,4,2,H,2022,3.0107,0.690679
-2022-08-13,Aston Villa,Everton,2,1,H,2022,2.66696,1.37507
+2022-08-13,Brighton,Newcastle United,0,0,D,2022,1.60835,0.183952
 2022-08-13,Manchester City,Bournemouth,4,0,H,2022,1.69064,0.123946
+2022-08-13,Aston Villa,Everton,2,1,H,2022,2.66696,1.37507
 2022-08-14,Nottingham Forest,West Ham,1,0,H,2022,1.9717,2.08634
 2022-08-14,Chelsea,Tottenham,2,2,D,2022,1.83945,1.58708
 2022-08-15,Liverpool,Crystal Palace,1,1,D,2022,2.23596,1.64468
-2022-08-20,Fulham,Brentford,3,2,H,2022,2.89934,1.59352
 2022-08-20,Tottenham,Wolves,1,0,H,2022,1.46608,0.686123
 2022-08-20,Crystal Palace,Aston Villa,3,1,H,2022,2.91137,0.803828
 2022-08-20,Everton,Nottingham Forest,1,1,D,2022,1.43408,0.918315
+2022-08-20,Fulham,Brentford,3,2,H,2022,2.89934,1.59352
 2022-08-20,Leicester,Southampton,1,2,A,2022,0.242948,1.24155
 2022-08-20,Bournemouth,Arsenal,0,3,A,2022,0.211335,1.71081
-2022-08-21,Leeds,Chelsea,3,0,H,2022,2.20971,0.692492
 2022-08-21,West Ham,Brighton,0,2,A,2022,0.768634,1.82645
 2022-08-21,Newcastle United,Manchester City,3,3,D,2022,2.2127,3.67382
+2022-08-21,Leeds,Chelsea,3,0,H,2022,2.20971,0.692492
 2022-08-22,Manchester United,Liverpool,2,1,H,2022,2.01764,1.52301
-2022-08-27,Manchester City,Crystal Palace,4,2,H,2022,2.3853,0.091976
-2022-08-27,Arsenal,Fulham,2,1,H,2022,2.47427,0.926007
-2022-08-27,Liverpool,Bournemouth,9,0,H,2022,4.86035,0.180991
+2022-08-27,Chelsea,Leicester,2,1,H,2022,1.74916,1.96023
+2022-08-27,Southampton,Manchester United,0,1,A,2022,1.35887,1.34359
 2022-08-27,Brentford,Everton,1,1,D,2022,2.28391,1.65465
 2022-08-27,Brighton,Leeds,1,0,H,2022,1.60986,1.14874
-2022-08-27,Southampton,Manchester United,0,1,A,2022,1.35887,1.34359
-2022-08-27,Chelsea,Leicester,2,1,H,2022,1.74916,1.96023
+2022-08-27,Liverpool,Bournemouth,9,0,H,2022,4.86035,0.180991
+2022-08-27,Manchester City,Crystal Palace,4,2,H,2022,2.3853,0.091976
+2022-08-27,Arsenal,Fulham,2,1,H,2022,2.47427,0.926007
 2022-08-28,Aston Villa,West Ham,0,1,A,2022,0.304555,0.334589
 2022-08-28,Wolves,Newcastle United,1,1,D,2022,1.13248,1.93362
 2022-08-28,Nottingham Forest,Tottenham,0,2,A,2022,0.801369,2.44473
+2022-08-30,Leeds,Everton,1,1,D,2022,1.04551,1.17189
+2022-08-30,Southampton,Chelsea,2,1,H,2022,1.44086,1.5047
 2022-08-30,Crystal Palace,Brentford,1,1,D,2022,0.777363,1.61808
 2022-08-30,Fulham,Brighton,2,1,H,2022,1.07093,1.75359
-2022-08-30,Southampton,Chelsea,2,1,H,2022,1.44086,1.5047
-2022-08-30,Leeds,Everton,1,1,D,2022,1.04551,1.17189
-2022-08-31,West Ham,Tottenham,1,1,D,2022,1.52267,0.723285
-2022-08-31,Manchester City,Nottingham Forest,6,0,H,2022,3.83759,0.729752
-2022-08-31,Liverpool,Newcastle United,2,1,H,2022,1.76119,0.643546
 2022-08-31,Arsenal,Aston Villa,2,1,H,2022,2.79971,0.297168
 2022-08-31,Bournemouth,Wolves,0,0,D,2022,0.362035,1.53246
+2022-08-31,Manchester City,Nottingham Forest,6,0,H,2022,3.83759,0.729752
+2022-08-31,West Ham,Tottenham,1,1,D,2022,1.52267,0.723285
+2022-08-31,Liverpool,Newcastle United,2,1,H,2022,1.76119,0.643546
 2022-09-01,Leicester,Manchester United,0,1,A,2022,0.615266,1.09969
 2022-09-03,Aston Villa,Manchester City,1,1,D,2022,0.279392,1.92143
-2022-09-03,Tottenham,Fulham,2,1,H,2022,2.67823,0.381556
 2022-09-03,Wolves,Southampton,1,0,H,2022,1.10039,1.20838
+2022-09-03,Tottenham,Fulham,2,1,H,2022,2.67823,0.381556
 2022-09-03,Nottingham Forest,Bournemouth,2,3,A,2022,1.32895,0.905041
-2022-09-03,Brentford,Leeds,5,2,H,2022,2.7485,1.796
 2022-09-03,Chelsea,West Ham,2,1,H,2022,0.707333,1.4196
+2022-09-03,Brentford,Leeds,5,2,H,2022,2.7485,1.796
 2022-09-03,Everton,Liverpool,0,0,D,2022,1.39169,1.38617
 2022-09-03,Newcastle United,Crystal Palace,0,0,D,2022,2.90672,0.920595
 2022-09-04,Brighton,Leicester,5,2,H,2022,2.73166,1.06549
 2022-09-04,Manchester United,Arsenal,3,1,H,2022,2.02904,1.42238
 2022-09-16,Aston Villa,Southampton,1,0,H,2022,1.34365,0.218302
 2022-09-16,Nottingham Forest,Fulham,2,3,A,2022,1.41541,1.3496
-2022-09-17,Wolves,Manchester City,0,3,A,2022,0.310995,1.4242
-2022-09-17,Newcastle United,Bournemouth,1,1,D,2022,1.54758,0.976948
 2022-09-17,Tottenham,Leicester,6,2,H,2022,1.98619,1.59449
-2022-09-18,Everton,West Ham,1,0,H,2022,0.39773,0.655351
+2022-09-17,Newcastle United,Bournemouth,1,1,D,2022,1.54758,0.976948
+2022-09-17,Wolves,Manchester City,0,3,A,2022,0.310995,1.4242
 2022-09-18,Brentford,Arsenal,0,3,A,2022,0.54011,1.32021
+2022-09-18,Everton,West Ham,1,0,H,2022,0.39773,0.655351
+2022-10-01,Southampton,Everton,1,2,A,2022,1.95961,1.99979
 2022-10-01,Arsenal,Tottenham,3,1,H,2022,2.48403,1.5027
 2022-10-01,Bournemouth,Brentford,0,0,D,2022,0.758128,1.046
 2022-10-01,Crystal Palace,Chelsea,1,2,A,2022,0.70987,1.25506
 2022-10-01,Fulham,Newcastle United,1,4,A,2022,0.683701,4.67198
 2022-10-01,Liverpool,Brighton,3,3,D,2022,2.1515,2.36567
-2022-10-01,Southampton,Everton,1,2,A,2022,1.95961,1.99979
 2022-10-01,West Ham,Wolves,2,0,H,2022,1.03934,0.575988
-2022-10-02,Manchester City,Manchester United,6,3,H,2022,3.01103,1.71335
 2022-10-02,Leeds,Aston Villa,0,0,D,2022,0.298626,1.89645
+2022-10-02,Manchester City,Manchester United,6,3,H,2022,3.01103,1.71335
 2022-10-03,Leicester,Nottingham Forest,4,0,H,2022,1.2497,1.22169
-2022-10-08,Brighton,Tottenham,0,1,A,2022,0.899735,0.771641
-2022-10-08,Newcastle United,Brentford,5,1,H,2022,2.44631,1.13466
-2022-10-08,Chelsea,Wolves,3,0,H,2022,2.43092,0.748449
 2022-10-08,Bournemouth,Leicester,2,1,H,2022,1.14891,1.18125
+2022-10-08,Chelsea,Wolves,3,0,H,2022,2.43092,0.748449
 2022-10-08,Manchester City,Southampton,4,0,H,2022,2.73536,0.101148
-2022-10-09,Crystal Palace,Leeds,2,1,H,2022,1.65194,1.06564
-2022-10-09,West Ham,Fulham,3,1,H,2022,3.43676,0.549848
+2022-10-08,Newcastle United,Brentford,5,1,H,2022,2.44631,1.13466
+2022-10-08,Brighton,Tottenham,0,1,A,2022,0.899735,0.771641
 2022-10-09,Arsenal,Liverpool,3,2,H,2022,2.81968,0.765151
 2022-10-09,Everton,Manchester United,1,2,A,2022,0.365844,1.82612
+2022-10-09,Crystal Palace,Leeds,2,1,H,2022,1.65194,1.06564
+2022-10-09,West Ham,Fulham,3,1,H,2022,3.43676,0.549848
 2022-10-10,Nottingham Forest,Aston Villa,1,1,D,2022,0.221346,0.657187
 2022-10-14,Brentford,Brighton,2,0,H,2022,1.90636,2.15668
 2022-10-15,Leicester,Crystal Palace,0,0,D,2022,0.973426,0.346808
 2022-10-15,Fulham,Bournemouth,2,2,D,2022,1.61738,1.62829
 2022-10-15,Wolves,Nottingham Forest,1,0,H,2022,1.22368,1.24761
 2022-10-15,Tottenham,Everton,2,0,H,2022,2.49409,0.560039
-2022-10-16,Southampton,West Ham,1,1,D,2022,0.524479,1.70727
 2022-10-16,Liverpool,Manchester City,1,0,H,2022,1.9992,0.911493
+2022-10-16,Southampton,West Ham,1,1,D,2022,0.524479,1.70727
 2022-10-16,Leeds,Arsenal,0,1,A,2022,2.02232,0.821757
 2022-10-16,Aston Villa,Chelsea,0,2,A,2022,2.44542,1.23643
 2022-10-16,Manchester United,Newcastle United,0,0,D,2022,1.41606,0.78815
 2022-10-18,Brighton,Nottingham Forest,0,0,D,2022,2.10188,0.195003
 2022-10-18,Crystal Palace,Wolves,2,1,H,2022,1.25617,0.857837
+2022-10-19,Bournemouth,Southampton,0,1,A,2022,0.810452,1.23878
+2022-10-19,Brentford,Chelsea,0,0,D,2022,1.45228,0.557405
+2022-10-19,Liverpool,West Ham,1,0,H,2022,2.24066,2.48649
 2022-10-19,Newcastle United,Everton,1,0,H,2022,1.13393,0.0609567
 2022-10-19,Manchester United,Tottenham,2,0,H,2022,1.70973,0.658526
-2022-10-19,Brentford,Chelsea,0,0,D,2022,1.45228,0.557405
-2022-10-19,Bournemouth,Southampton,0,1,A,2022,0.810452,1.23878
-2022-10-19,Liverpool,West Ham,1,0,H,2022,2.24066,2.48649
 2022-10-20,Fulham,Aston Villa,3,0,H,2022,2.892,0.711487
 2022-10-20,Leicester,Leeds,2,0,H,2022,0.655249,1.19464
 2022-10-22,Nottingham Forest,Liverpool,1,0,H,2022,2.50163,2.19752
@@ -2010,30 +2010,30 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2022-10-22,Manchester City,Brighton,3,1,H,2022,1.86239,0.52863
 2022-10-22,Chelsea,Manchester United,1,1,D,2022,1.20238,0.730935
 2022-10-23,Wolves,Leicester,0,4,A,2022,1.61785,0.989075
-2022-10-23,Southampton,Arsenal,1,1,D,2022,0.622653,1.57897
 2022-10-23,Tottenham,Newcastle United,1,2,A,2022,1.56513,1.1294
-2022-10-23,Aston Villa,Brentford,4,0,H,2022,3.45617,1.00462
 2022-10-23,Leeds,Fulham,2,3,A,2022,1.96384,2.47512
+2022-10-23,Southampton,Arsenal,1,1,D,2022,0.622653,1.57897
+2022-10-23,Aston Villa,Brentford,4,0,H,2022,3.45617,1.00462
 2022-10-24,West Ham,Bournemouth,2,0,H,2022,1.97715,0.730443
-2022-10-29,Bournemouth,Tottenham,2,3,A,2022,0.887533,2.1946
-2022-10-29,Brentford,Wolves,1,1,D,2022,1.29257,0.557605
-2022-10-29,Brighton,Chelsea,4,1,H,2022,2.881,1.07554
-2022-10-29,Crystal Palace,Southampton,1,0,H,2022,1.00384,1.35803
-2022-10-29,Newcastle United,Aston Villa,4,0,H,2022,4.18808,0.270814
 2022-10-29,Fulham,Everton,0,0,D,2022,1.76438,1.19166
+2022-10-29,Newcastle United,Aston Villa,4,0,H,2022,4.18808,0.270814
 2022-10-29,Liverpool,Leeds,1,2,A,2022,1.90889,1.61271
+2022-10-29,Brighton,Chelsea,4,1,H,2022,2.881,1.07554
+2022-10-29,Brentford,Wolves,1,1,D,2022,1.29257,0.557605
+2022-10-29,Bournemouth,Tottenham,2,3,A,2022,0.887533,2.1946
 2022-10-29,Leicester,Manchester City,0,1,A,2022,0.693597,0.703827
-2022-10-30,Manchester United,West Ham,1,0,H,2022,1.7514,1.00033
+2022-10-29,Crystal Palace,Southampton,1,0,H,2022,1.00384,1.35803
 2022-10-30,Arsenal,Nottingham Forest,5,0,H,2022,3.00699,0.206127
+2022-10-30,Manchester United,West Ham,1,0,H,2022,1.7514,1.00033
+2022-11-05,Leeds,Bournemouth,4,3,H,2022,2.22532,1.55594
 2022-11-05,Manchester City,Fulham,2,1,H,2022,2.39332,0.843884
 2022-11-05,Nottingham Forest,Brentford,2,2,D,2022,1.29696,1.2204
 2022-11-05,Wolves,Brighton,2,3,A,2022,1.29252,1.87375
 2022-11-05,Everton,Leicester,0,2,A,2022,1.3729,2.2679
-2022-11-05,Leeds,Bournemouth,4,3,H,2022,2.22532,1.55594
 2022-11-06,Tottenham,Liverpool,1,2,A,2022,1.81736,1.46548
+2022-11-06,Chelsea,Arsenal,0,1,A,2022,0.278815,2.37846
 2022-11-06,Southampton,Newcastle United,1,4,A,2022,1.65228,1.42101
 2022-11-06,Aston Villa,Manchester United,3,1,H,2022,0.578563,0.517189
-2022-11-06,Chelsea,Arsenal,0,1,A,2022,0.278815,2.37846
 2022-11-06,West Ham,Crystal Palace,1,2,A,2022,0.192579,1.03344
 2022-11-12,Manchester City,Brentford,1,2,A,2022,1.605,3.29012
 2022-11-12,Bournemouth,Everton,3,0,H,2022,2.45642,0.768756
@@ -2050,19 +2050,19 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2022-12-26,Arsenal,West Ham,3,1,H,2022,1.88828,1.02652
 2022-12-26,Everton,Wolves,1,2,A,2022,1.22653,1.22076
 2022-12-26,Brentford,Tottenham,2,2,D,2022,2.25263,0.883787
-2022-12-26,Crystal Palace,Fulham,0,3,A,2022,0.421754,2.69927
 2022-12-26,Leicester,Newcastle United,0,3,A,2022,0.31099,1.76382
-2022-12-27,Chelsea,Bournemouth,2,0,H,2022,1.91378,0.44307
+2022-12-26,Crystal Palace,Fulham,0,3,A,2022,0.421754,2.69927
 2022-12-27,Manchester United,Nottingham Forest,3,0,H,2022,2.13668,0.477076
+2022-12-27,Chelsea,Bournemouth,2,0,H,2022,1.91378,0.44307
 2022-12-28,Leeds,Manchester City,1,3,A,2022,0.603751,4.16249
 2022-12-30,West Ham,Brentford,0,2,A,2022,1.13979,1.51436
 2022-12-30,Liverpool,Leicester,2,1,H,2022,2.02463,0.863312
 2022-12-31,Wolves,Manchester United,0,1,A,2022,0.587672,2.44728
-2022-12-31,Bournemouth,Crystal Palace,0,2,A,2022,0.895819,1.75264
 2022-12-31,Fulham,Southampton,2,1,H,2022,1.49305,0.698711
 2022-12-31,Manchester City,Everton,1,1,D,2022,2.36333,0.0760019
 2022-12-31,Newcastle United,Leeds,0,0,D,2022,2.78846,0.517099
 2022-12-31,Brighton,Arsenal,2,4,A,2022,1.15663,3.22106
+2022-12-31,Bournemouth,Crystal Palace,0,2,A,2022,0.895819,1.75264
 2023-01-01,Tottenham,Aston Villa,0,2,A,2022,0.569383,1.21733
 2023-01-01,Nottingham Forest,Chelsea,1,1,D,2022,0.985219,1.37305
 2023-01-02,Brentford,Liverpool,3,1,H,2022,2.0991,2.10461
@@ -2088,34 +2088,34 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2023-01-15,Tottenham,Arsenal,0,2,A,2022,1.71032,2.04232
 2023-01-18,Crystal Palace,Manchester United,1,1,D,2022,0.413339,1.39437
 2023-01-19,Manchester City,Tottenham,4,2,H,2022,2.34166,1.16499
-2023-01-21,Liverpool,Chelsea,0,0,D,2022,1.30125,1.84467
+2023-01-21,Bournemouth,Nottingham Forest,1,1,D,2022,1.80549,1.57544
 2023-01-21,Leicester,Brighton,2,2,D,2022,1.35941,1.94491
+2023-01-21,Crystal Palace,Newcastle United,0,0,D,2022,0.333154,1.44384
+2023-01-21,Liverpool,Chelsea,0,0,D,2022,1.30125,1.84467
 2023-01-21,Southampton,Aston Villa,0,1,A,2022,0.672444,1.16432
 2023-01-21,West Ham,Everton,2,0,H,2022,2.46879,0.286826
-2023-01-21,Crystal Palace,Newcastle United,0,0,D,2022,0.333154,1.44384
-2023-01-21,Bournemouth,Nottingham Forest,1,1,D,2022,1.80549,1.57544
 2023-01-22,Leeds,Brentford,0,0,D,2022,0.374736,0.17114
 2023-01-22,Manchester City,Wolves,3,0,H,2022,3.32757,0.469277
 2023-01-22,Arsenal,Manchester United,3,2,H,2022,2.90273,0.272246
 2023-01-23,Fulham,Tottenham,0,1,A,2022,1.09339,0.993805
 2023-02-03,Chelsea,Fulham,0,0,D,2022,1.41471,0.493341
-2023-02-04,Wolves,Liverpool,3,0,H,2022,2.63328,1.30193
-2023-02-04,Manchester United,Crystal Palace,2,1,H,2022,2.07035,1.3798
 2023-02-04,Newcastle United,West Ham,1,1,D,2022,1.22883,1.27831
-2023-02-04,Brentford,Southampton,3,0,H,2022,2.36747,0.644385
-2023-02-04,Aston Villa,Leicester,2,4,A,2022,1.4989,2.49784
 2023-02-04,Everton,Arsenal,1,0,H,2022,2.09191,0.690102
+2023-02-04,Aston Villa,Leicester,2,4,A,2022,1.4989,2.49784
+2023-02-04,Brentford,Southampton,3,0,H,2022,2.36747,0.644385
 2023-02-04,Brighton,Bournemouth,1,0,H,2022,2.55696,0.908298
-2023-02-05,Nottingham Forest,Leeds,1,0,H,2022,0.3325,1.12331
+2023-02-04,Manchester United,Crystal Palace,2,1,H,2022,2.07035,1.3798
+2023-02-04,Wolves,Liverpool,3,0,H,2022,2.63328,1.30193
 2023-02-05,Tottenham,Manchester City,1,0,H,2022,1.42168,0.773747
+2023-02-05,Nottingham Forest,Leeds,1,0,H,2022,0.3325,1.12331
 2023-02-08,Manchester United,Leeds,2,2,D,2022,2.00007,0.554798
-2023-02-11,Bournemouth,Newcastle United,1,1,D,2022,1.54458,1.54853
-2023-02-11,Southampton,Wolves,1,2,A,2022,1.30203,0.615651
-2023-02-11,Leicester,Tottenham,4,1,H,2022,1.41208,1.11709
-2023-02-11,Fulham,Nottingham Forest,2,0,H,2022,1.69704,0.686824
-2023-02-11,Crystal Palace,Brighton,1,1,D,2022,0.928279,2.64981
-2023-02-11,Arsenal,Brentford,1,1,D,2022,1.36738,2.17538
 2023-02-11,West Ham,Chelsea,1,1,D,2022,1.07615,0.900465
+2023-02-11,Arsenal,Brentford,1,1,D,2022,1.36738,2.17538
+2023-02-11,Crystal Palace,Brighton,1,1,D,2022,0.928279,2.64981
+2023-02-11,Fulham,Nottingham Forest,2,0,H,2022,1.69704,0.686824
+2023-02-11,Leicester,Tottenham,4,1,H,2022,1.41208,1.11709
+2023-02-11,Southampton,Wolves,1,2,A,2022,1.30203,0.615651
+2023-02-11,Bournemouth,Newcastle United,1,1,D,2022,1.54458,1.54853
 2023-02-12,Leeds,Manchester United,0,2,A,2022,1.89163,1.30375
 2023-02-12,Manchester City,Aston Villa,3,1,H,2022,3.60987,0.275348
 2023-02-13,Liverpool,Everton,2,0,H,2022,2.23291,0.402331
@@ -2131,11 +2131,11 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2023-02-19,Manchester United,Leicester,3,0,H,2022,4.24663,1.39678
 2023-02-19,Tottenham,West Ham,2,0,H,2022,1.43042,0.365173
 2023-02-24,Fulham,Wolves,1,1,D,2022,0.913133,0.997097
-2023-02-25,Crystal Palace,Liverpool,0,0,D,2022,0.989086,1.35123
 2023-02-25,Bournemouth,Manchester City,1,4,A,2022,1.08527,2.98206
-2023-02-25,West Ham,Nottingham Forest,4,0,H,2022,3.05032,0.350849
-2023-02-25,Leeds,Southampton,1,0,H,2022,0.720048,0.391128
+2023-02-25,Crystal Palace,Liverpool,0,0,D,2022,0.989086,1.35123
 2023-02-25,Leicester,Arsenal,0,1,A,2022,0.0203463,0.722059
+2023-02-25,Leeds,Southampton,1,0,H,2022,0.720048,0.391128
+2023-02-25,West Ham,Nottingham Forest,4,0,H,2022,3.05032,0.350849
 2023-02-25,Everton,Aston Villa,0,2,A,2022,1.54109,2.06037
 2023-02-26,Tottenham,Chelsea,2,0,H,2022,0.926313,0.262281
 2023-03-01,Arsenal,Everton,4,0,H,2022,3.06919,1.604
@@ -2150,12 +2150,12 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2023-03-05,Nottingham Forest,Everton,2,2,D,2022,0.799733,1.70877
 2023-03-05,Liverpool,Manchester United,7,0,H,2022,3.44269,0.837542
 2023-03-06,Brentford,Fulham,3,2,H,2022,2.44358,1.67531
-2023-03-11,Crystal Palace,Manchester City,0,1,A,2022,0.185498,2.1884
-2023-03-11,Tottenham,Nottingham Forest,3,1,H,2022,1.73482,1.62805
 2023-03-11,Leeds,Brighton,2,2,D,2022,0.596738,1.51388
-2023-03-11,Everton,Brentford,1,0,H,2022,1.71599,1.95088
 2023-03-11,Leicester,Chelsea,1,3,A,2022,2.36139,1.49478
 2023-03-11,Bournemouth,Liverpool,1,0,H,2022,1.10128,2.13465
+2023-03-11,Crystal Palace,Manchester City,0,1,A,2022,0.185498,2.1884
+2023-03-11,Everton,Brentford,1,0,H,2022,1.71599,1.95088
+2023-03-11,Tottenham,Nottingham Forest,3,1,H,2022,1.73482,1.62805
 2023-03-12,Fulham,Arsenal,0,3,A,2022,0.61832,2.64355
 2023-03-12,Manchester United,Southampton,0,0,D,2022,0.910911,1.18053
 2023-03-12,West Ham,Aston Villa,1,1,D,2022,2.14634,1.99139
@@ -2163,10 +2163,10 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2023-03-15,Brighton,Crystal Palace,1,0,H,2022,0.588727,1.21452
 2023-03-15,Southampton,Brentford,0,2,A,2022,0.358977,1.66591
 2023-03-17,Nottingham Forest,Newcastle United,1,2,A,2022,0.531985,2.50027
-2023-03-18,Chelsea,Everton,2,2,D,2022,1.90027,1.64675
 2023-03-18,Brentford,Leicester,1,1,D,2022,0.476467,1.42133
 2023-03-18,Southampton,Tottenham,3,3,D,2022,2.52077,1.88473
 2023-03-18,Wolves,Leeds,2,4,A,2022,2.76358,1.6549
+2023-03-18,Chelsea,Everton,2,2,D,2022,1.90027,1.64675
 2023-03-18,Aston Villa,Bournemouth,3,0,H,2022,3.45474,0.50014
 2023-03-19,Arsenal,Crystal Palace,4,1,H,2022,1.53568,1.19194
 2023-04-01,Manchester City,Liverpool,4,1,H,2022,3.01243,0.318171
@@ -2831,11 +2831,11 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2024-12-26,Bournemouth,Crystal Palace,0,0,D,2024,1.20189,0.500066
 2024-12-26,Chelsea,Fulham,1,2,A,2024,1.55626,1.77929
 2024-12-26,Newcastle United,Aston Villa,3,0,H,2024,2.82867,0.225522
+2024-12-26,Nottingham Forest,Tottenham,1,0,H,2024,1.30018,1.05758
 2024-12-26,Liverpool,Leicester,3,1,H,2024,1.89935,0.22097
-2024-12-26,Southampton,West Ham,0,1,A,2024,2.19833,1.90111
 2024-12-26,Wolves,Manchester United,2,0,H,2024,0.826489,0.358876
 2024-12-26,Manchester City,Everton,1,1,D,2024,2.51965,0.653289
-2024-12-26,Nottingham Forest,Tottenham,1,0,H,2024,1.30018,1.05758
+2024-12-26,Southampton,West Ham,0,1,A,2024,2.19833,1.90111
 2024-12-27,Brighton,Brentford,0,0,D,2024,1.33538,0.961233
 2024-12-27,Arsenal,Ipswich,1,0,H,2024,2.16462,0.0783327
 2024-12-29,Leicester,Manchester City,0,2,A,2024,1.84208,1.58002
@@ -3052,132 +3052,132 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2025-08-22,West Ham,Chelsea,1,5,A,2025,0.978572,3.94997
 2025-08-23,Arsenal,Leeds,5,0,H,2025,2.73761,0.156761
 2025-08-23,Burnley,Sunderland,2,0,H,2025,1.00381,1.12127
-2025-08-23,Bournemouth,Wolves,1,0,H,2025,1.78462,0.373367
 2025-08-23,Manchester City,Tottenham,0,2,A,2025,1.2475,1.28015
+2025-08-23,Bournemouth,Wolves,1,0,H,2025,1.78462,0.373367
 2025-08-23,Brentford,Aston Villa,1,0,H,2025,1.12964,0.976852
 2025-08-24,Crystal Palace,Nottingham Forest,1,1,D,2025,1.10188,1.32987
 2025-08-24,Everton,Brighton,2,0,H,2025,1.80116,2.08487
 2025-08-24,Fulham,Manchester United,1,1,D,2025,1.65333,1.54603
 2025-08-25,Newcastle United,Liverpool,2,3,A,2025,1.96342,0.646559
-2025-08-30,Tottenham,Bournemouth,0,1,A,2025,0.17067,2.1201
 2025-08-30,Leeds,Newcastle United,0,0,D,2025,0.6773,0.303635
 2025-08-30,Wolves,Everton,2,3,A,2025,0.943257,2.03791
-2025-08-30,Sunderland,Brentford,2,1,H,2025,1.57127,1.44604
+2025-08-30,Tottenham,Bournemouth,0,1,A,2025,0.17067,2.1201
 2025-08-30,Manchester United,Burnley,3,2,H,2025,4.02237,1.32618
 2025-08-30,Chelsea,Fulham,2,0,H,2025,2.4324,0.736228
+2025-08-30,Sunderland,Brentford,2,1,H,2025,1.57127,1.44604
 2025-08-31,Brighton,Manchester City,2,1,H,2025,2.20864,2.13418
 2025-08-31,Nottingham Forest,West Ham,0,3,A,2025,0.716018,2.236
 2025-08-31,Liverpool,Arsenal,1,0,H,2025,0.481404,0.485679
 2025-08-31,Aston Villa,Crystal Palace,0,3,A,2025,1.20586,2.59713
 2025-09-13,West Ham,Tottenham,0,3,A,2025,0.793248,1.51402
-2025-09-13,Newcastle United,Wolves,1,0,H,2025,1.19186,0.375942
 2025-09-13,Brentford,Chelsea,2,2,D,2025,1.17533,0.755999
 2025-09-13,Fulham,Leeds,1,0,H,2025,1.13979,0.830398
-2025-09-13,Arsenal,Nottingham Forest,3,0,H,2025,2.8817,0.293681
+2025-09-13,Newcastle United,Wolves,1,0,H,2025,1.19186,0.375942
 2025-09-13,Crystal Palace,Sunderland,0,0,D,2025,1.75805,0.354129
 2025-09-13,Everton,Aston Villa,0,0,D,2025,1.8927,0.354327
 2025-09-13,Bournemouth,Brighton,2,1,H,2025,1.44187,0.624923
+2025-09-13,Arsenal,Nottingham Forest,3,0,H,2025,2.8817,0.293681
 2025-09-14,Burnley,Liverpool,0,1,A,2025,0.168041,2.79492
 2025-09-14,Manchester City,Manchester United,3,0,H,2025,1.99725,1.51915
-2025-09-20,Liverpool,Everton,2,1,H,2025,1.06166,0.721371
-2025-09-20,Brighton,Tottenham,2,2,D,2025,1.40466,1.19181
-2025-09-20,Burnley,Nottingham Forest,1,1,D,2025,1.14159,0.830779
-2025-09-20,West Ham,Crystal Palace,1,2,A,2025,0.466365,2.33565
-2025-09-20,Wolves,Leeds,1,3,A,2025,1.5661,0.456988
-2025-09-20,Manchester United,Chelsea,2,1,H,2025,1.34458,0.469843
 2025-09-20,Fulham,Brentford,3,1,H,2025,1.52431,0.826556
+2025-09-20,Wolves,Leeds,1,3,A,2025,1.5661,0.456988
+2025-09-20,West Ham,Crystal Palace,1,2,A,2025,0.466365,2.33565
+2025-09-20,Manchester United,Chelsea,2,1,H,2025,1.34458,0.469843
+2025-09-20,Brighton,Tottenham,2,2,D,2025,1.40466,1.19181
+2025-09-20,Liverpool,Everton,2,1,H,2025,1.06166,0.721371
+2025-09-20,Burnley,Nottingham Forest,1,1,D,2025,1.14159,0.830779
+2025-09-21,Bournemouth,Newcastle United,0,0,D,2025,0.55066,0.153629
 2025-09-21,Sunderland,Aston Villa,1,1,D,2025,0.938312,0.939354
 2025-09-21,Arsenal,Manchester City,1,1,D,2025,0.718575,1.1227
-2025-09-21,Bournemouth,Newcastle United,0,0,D,2025,0.55066,0.153629
+2025-09-27,Tottenham,Wolves,1,1,D,2025,0.818711,1.15951
 2025-09-27,Brentford,Manchester United,3,1,H,2025,2.78726,2.23609
 2025-09-27,Chelsea,Brighton,1,3,A,2025,2.02653,2.4751
 2025-09-27,Crystal Palace,Liverpool,2,1,H,2025,3.53323,3.10176
 2025-09-27,Leeds,Bournemouth,2,2,D,2025,2.04728,1.06033
 2025-09-27,Manchester City,Burnley,5,1,H,2025,3.22133,0.509491
 2025-09-27,Nottingham Forest,Sunderland,0,1,A,2025,1.4203,1.94154
-2025-09-27,Tottenham,Wolves,1,1,D,2025,0.818711,1.15951
-2025-09-28,Aston Villa,Fulham,3,1,H,2025,1.36575,0.952612
 2025-09-28,Newcastle United,Arsenal,1,2,A,2025,0.739851,2.07048
+2025-09-28,Aston Villa,Fulham,3,1,H,2025,1.36575,0.952612
 2025-09-29,Everton,West Ham,1,1,D,2025,0.909703,0.775766
 2025-10-03,Bournemouth,Fulham,3,1,H,2025,1.33458,0.84335
-2025-10-04,Chelsea,Liverpool,2,1,H,2025,1.23721,2.05981
-2025-10-04,Manchester United,Sunderland,2,0,H,2025,1.9298,0.807119
 2025-10-04,Leeds,Tottenham,1,2,A,2025,1.48051,0.688198
 2025-10-04,Arsenal,West Ham,2,0,H,2025,3.0585,0.864549
+2025-10-04,Manchester United,Sunderland,2,0,H,2025,1.9298,0.807119
+2025-10-04,Chelsea,Liverpool,2,1,H,2025,1.23721,2.05981
 2025-10-05,Aston Villa,Burnley,2,1,H,2025,1.73572,0.502292
 2025-10-05,Everton,Crystal Palace,2,1,H,2025,2.13876,2.17789
 2025-10-05,Newcastle United,Nottingham Forest,2,0,H,2025,3.81662,0.337689
 2025-10-05,Wolves,Brighton,1,1,D,2025,0.369404,1.39158
 2025-10-05,Brentford,Manchester City,0,1,A,2025,0.693758,1.09647
-2025-10-18,Sunderland,Wolves,2,0,H,2025,1.02481,0.676323
 2025-10-18,Fulham,Arsenal,0,1,A,2025,0.502332,2.07823
-2025-10-18,Crystal Palace,Bournemouth,3,3,D,2025,4.56284,2.0471
+2025-10-18,Sunderland,Wolves,2,0,H,2025,1.02481,0.676323
 2025-10-18,Manchester City,Everton,2,0,H,2025,2.4799,0.794622
-2025-10-18,Brighton,Newcastle United,2,1,H,2025,0.857104,1.28313
 2025-10-18,Nottingham Forest,Chelsea,0,3,A,2025,2.0555,2.5583
 2025-10-18,Burnley,Leeds,2,0,H,2025,0.509647,2.33152
+2025-10-18,Brighton,Newcastle United,2,1,H,2025,0.857104,1.28313
+2025-10-18,Crystal Palace,Bournemouth,3,3,D,2025,4.56284,2.0471
 2025-10-19,Tottenham,Aston Villa,1,2,A,2025,1.51461,0.352231
 2025-10-19,Liverpool,Manchester United,1,2,A,2025,2.60972,2.53117
 2025-10-20,West Ham,Brentford,0,2,A,2025,0.260251,3.46635
 2025-10-24,Leeds,West Ham,2,1,H,2025,2.2214,0.498653
 2025-10-25,Manchester United,Brighton,4,2,H,2025,1.96231,0.947154
+2025-10-25,Brentford,Liverpool,3,2,H,2025,3.27126,2.11838
 2025-10-25,Chelsea,Sunderland,1,2,A,2025,1.21332,1.5506
 2025-10-25,Newcastle United,Fulham,2,1,H,2025,2.76806,1.52001
-2025-10-25,Brentford,Liverpool,3,2,H,2025,3.27126,2.11838
-2025-10-26,Everton,Tottenham,0,3,A,2025,1.4032,2.09327
-2025-10-26,Wolves,Burnley,2,3,A,2025,2.58132,1.54544
-2025-10-26,Aston Villa,Manchester City,1,0,H,2025,0.843906,1.36914
 2025-10-26,Arsenal,Crystal Palace,1,0,H,2025,0.856175,0.350534
+2025-10-26,Aston Villa,Manchester City,1,0,H,2025,0.843906,1.36914
 2025-10-26,Bournemouth,Nottingham Forest,2,0,H,2025,0.656601,0.305493
-2025-11-01,Brighton,Leeds,3,0,H,2025,2.64127,0.35919
-2025-11-01,Burnley,Arsenal,0,2,A,2025,0.679177,2.51649
-2025-11-01,Crystal Palace,Brentford,2,0,H,2025,0.734558,0.820498
+2025-10-26,Wolves,Burnley,2,3,A,2025,2.58132,1.54544
+2025-10-26,Everton,Tottenham,0,3,A,2025,1.4032,2.09327
+2025-11-01,Liverpool,Aston Villa,2,0,H,2025,1.47021,0.43502
+2025-11-01,Tottenham,Chelsea,0,1,A,2025,0.146954,3.34251
 2025-11-01,Fulham,Wolves,3,0,H,2025,1.91207,0.209934
 2025-11-01,Nottingham Forest,Manchester United,2,2,D,2025,1.55066,0.91622
-2025-11-01,Tottenham,Chelsea,0,1,A,2025,0.146954,3.34251
-2025-11-01,Liverpool,Aston Villa,2,0,H,2025,1.47021,0.43502
-2025-11-02,Manchester City,Bournemouth,3,1,H,2025,2.48999,0.899846
+2025-11-01,Burnley,Arsenal,0,2,A,2025,0.679177,2.51649
+2025-11-01,Brighton,Leeds,3,0,H,2025,2.64127,0.35919
+2025-11-01,Crystal Palace,Brentford,2,0,H,2025,0.734558,0.820498
 2025-11-02,West Ham,Newcastle United,3,1,H,2025,1.41383,0.523615
+2025-11-02,Manchester City,Bournemouth,3,1,H,2025,2.48999,0.899846
 2025-11-03,Sunderland,Everton,1,1,D,2025,1.18068,1.00741
-2025-11-08,Chelsea,Wolves,3,0,H,2025,3.98342,0.111462
-2025-11-08,Sunderland,Arsenal,2,2,D,2025,1.20495,2.32943
 2025-11-08,Tottenham,Manchester United,2,2,D,2025,1.35532,0.820256
 2025-11-08,Everton,Fulham,2,0,H,2025,2.30607,0.424478
 2025-11-08,West Ham,Burnley,3,2,H,2025,2.96728,1.87478
+2025-11-08,Sunderland,Arsenal,2,2,D,2025,1.20495,2.32943
+2025-11-08,Chelsea,Wolves,3,0,H,2025,3.98342,0.111462
+2025-11-09,Manchester City,Liverpool,3,0,H,2025,1.59542,1.0281
+2025-11-09,Crystal Palace,Brighton,0,0,D,2025,0.839547,0.637037
 2025-11-09,Nottingham Forest,Leeds,3,1,H,2025,2.49097,0.419461
 2025-11-09,Aston Villa,Bournemouth,4,0,H,2025,1.88282,2.00992
 2025-11-09,Brentford,Newcastle United,3,1,H,2025,2.73729,0.432277
-2025-11-09,Crystal Palace,Brighton,0,0,D,2025,0.839547,0.637037
-2025-11-09,Manchester City,Liverpool,3,0,H,2025,1.59542,1.0281
-2025-11-22,Bournemouth,West Ham,2,2,D,2025,3.48299,0.390782
-2025-11-22,Wolves,Crystal Palace,0,2,A,2025,1.66409,1.44933
-2025-11-22,Newcastle United,Manchester City,2,1,H,2025,2.40555,2.45648
-2025-11-22,Liverpool,Nottingham Forest,0,3,A,2025,1.79273,1.19459
 2025-11-22,Burnley,Chelsea,0,2,A,2025,0.660943,1.72093
+2025-11-22,Bournemouth,West Ham,2,2,D,2025,3.48299,0.390782
 2025-11-22,Brighton,Brentford,2,1,H,2025,0.977488,2.19979
 2025-11-22,Fulham,Sunderland,1,0,H,2025,2.83729,0.222768
+2025-11-22,Liverpool,Nottingham Forest,0,3,A,2025,1.79273,1.19459
+2025-11-22,Wolves,Crystal Palace,0,2,A,2025,1.66409,1.44933
+2025-11-22,Newcastle United,Manchester City,2,1,H,2025,2.40555,2.45648
 2025-11-23,Leeds,Aston Villa,1,2,A,2025,1.84668,1.35978
 2025-11-23,Arsenal,Tottenham,4,1,H,2025,2.27827,0.0300672
 2025-11-24,Manchester United,Everton,0,1,A,2025,2.2737,0.155063
 2025-11-29,Tottenham,Fulham,1,2,A,2025,1.04396,0.494736
-2025-11-29,Sunderland,Bournemouth,3,2,H,2025,1.16955,1.79274
 2025-11-29,Everton,Newcastle United,1,4,A,2025,1.01125,2.45882
-2025-11-29,Brentford,Burnley,3,1,H,2025,3.72106,0.874025
 2025-11-29,Manchester City,Leeds,3,2,H,2025,2.85292,1.75142
+2025-11-29,Brentford,Burnley,3,1,H,2025,3.72106,0.874025
+2025-11-29,Sunderland,Bournemouth,3,2,H,2025,1.16955,1.79274
 2025-11-30,Crystal Palace,Manchester United,1,2,A,2025,2.13561,1.47768
 2025-11-30,Aston Villa,Wolves,1,0,H,2025,1.15486,0.692588
 2025-11-30,Nottingham Forest,Brighton,0,2,A,2025,0.960325,2.0572
 2025-11-30,West Ham,Liverpool,0,2,A,2025,0.364152,1.56793
 2025-11-30,Chelsea,Arsenal,1,1,D,2025,0.791914,1.22828
-2025-12-02,Fulham,Manchester City,4,5,A,2025,0.972635,1.96225
 2025-12-02,Bournemouth,Everton,0,1,A,2025,0.635415,1.19573
+2025-12-02,Fulham,Manchester City,4,5,A,2025,0.972635,1.96225
 2025-12-02,Newcastle United,Tottenham,2,2,D,2025,1.88558,1.05205
 2025-12-03,Leeds,Chelsea,3,1,H,2025,2.2047,0.964018
-2025-12-03,Liverpool,Sunderland,1,1,D,2025,1.37633,0.712662
 2025-12-03,Wolves,Nottingham Forest,0,1,A,2025,1.02461,1.12389
-2025-12-03,Burnley,Crystal Palace,0,1,A,2025,1.16852,0.987797
+2025-12-03,Liverpool,Sunderland,1,1,D,2025,1.37633,0.712662
 2025-12-03,Brighton,Aston Villa,3,4,A,2025,1.96298,3.15745
 2025-12-03,Arsenal,Brentford,2,0,H,2025,2.63126,0.588716
+2025-12-03,Burnley,Crystal Palace,0,1,A,2025,1.16852,0.987797
 2025-12-04,Manchester United,West Ham,1,1,D,2025,2.27674,1.36584
 2025-12-06,Aston Villa,Arsenal,2,1,H,2025,2.71986,1.85965
 2025-12-06,Bournemouth,Chelsea,0,0,D,2025,1.41931,0.672602
@@ -3189,29 +3189,29 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2025-12-07,Brighton,West Ham,1,1,D,2025,2.10077,1.7064
 2025-12-07,Fulham,Crystal Palace,1,2,A,2025,0.766771,1.71109
 2025-12-08,Wolves,Manchester United,1,4,A,2025,0.262147,4.04708
-2025-12-13,Arsenal,Wolves,2,1,H,2025,1.61796,0.61997
-2025-12-13,Burnley,Fulham,2,3,A,2025,2.05486,1.65053
 2025-12-13,Chelsea,Everton,2,0,H,2025,2.64457,1.34
 2025-12-13,Liverpool,Brighton,2,0,H,2025,2.4127,1.69004
+2025-12-13,Burnley,Fulham,2,3,A,2025,2.05486,1.65053
+2025-12-13,Arsenal,Wolves,2,1,H,2025,1.61796,0.61997
 2025-12-14,Crystal Palace,Manchester City,0,3,A,2025,1.30092,1.35317
 2025-12-14,Nottingham Forest,Tottenham,3,0,H,2025,2.32658,0.380246
 2025-12-14,Sunderland,Newcastle United,1,0,H,2025,0.630045,0.169329
 2025-12-14,West Ham,Aston Villa,2,3,A,2025,1.27701,0.595093
 2025-12-14,Brentford,Leeds,1,1,D,2025,0.697006,1.63409
 2025-12-15,Manchester United,Bournemouth,4,4,D,2025,3.21204,2.35196
-2025-12-20,Tottenham,Liverpool,1,2,A,2025,1.34905,1.23164
 2025-12-20,Leeds,Crystal Palace,4,1,H,2025,2.90786,1.53058
 2025-12-20,Everton,Arsenal,0,1,A,2025,0.213273,1.84723
+2025-12-20,Tottenham,Liverpool,1,2,A,2025,1.34905,1.23164
 2025-12-20,Wolves,Brentford,0,2,A,2025,1.26823,1.56309
-2025-12-20,Brighton,Sunderland,0,0,D,2025,0.919272,1.31044
 2025-12-20,Bournemouth,Burnley,1,1,D,2025,1.81847,0.480528
+2025-12-20,Brighton,Sunderland,0,0,D,2025,0.919272,1.31044
 2025-12-20,Newcastle United,Chelsea,2,2,D,2025,2.87863,1.0261
 2025-12-20,Manchester City,West Ham,3,0,H,2025,3.58188,1.02143
 2025-12-21,Aston Villa,Manchester United,2,1,H,2025,1.86917,1.30455
 2025-12-22,Fulham,Nottingham Forest,1,0,H,2025,1.70568,0.486296
 2025-12-26,Manchester United,Newcastle United,1,0,H,2025,0.940811,1.12998
-2025-12-27,West Ham,Fulham,0,1,A,2025,1.13719,1.11436
 2025-12-27,Chelsea,Aston Villa,1,2,A,2025,1.97155,2.05918
+2025-12-27,West Ham,Fulham,0,1,A,2025,1.13719,1.11436
 2025-12-27,Burnley,Everton,0,0,D,2025,1.24948,1.25204
 2025-12-27,Liverpool,Wolves,2,1,H,2025,1.56502,0.780664
 2025-12-27,Arsenal,Brighton,2,1,H,2025,2.54318,0.710064
@@ -3219,76 +3219,76 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2025-12-27,Brentford,Bournemouth,4,1,H,2025,2.8513,2.56183
 2025-12-28,Sunderland,Leeds,1,1,D,2025,0.805957,2.60653
 2025-12-28,Crystal Palace,Tottenham,0,1,A,2025,0.929681,0.870768
-2025-12-30,Arsenal,Aston Villa,4,1,H,2025,4.41335,2.94195
+2025-12-30,Manchester United,Wolves,1,1,D,2025,1.13306,1.21784
 2025-12-30,Burnley,Newcastle United,1,3,A,2025,1.32551,2.49248
 2025-12-30,Chelsea,Bournemouth,2,2,D,2025,2.33294,3.49142
 2025-12-30,Nottingham Forest,Everton,0,2,A,2025,1.75445,1.69525
 2025-12-30,West Ham,Brighton,2,2,D,2025,2.27644,3.08914
-2025-12-30,Manchester United,Wolves,1,1,D,2025,1.13306,1.21784
-2026-01-01,Sunderland,Manchester City,0,0,D,2025,0.962141,2.44247
+2025-12-30,Arsenal,Aston Villa,4,1,H,2025,4.41335,2.94195
 2026-01-01,Brentford,Tottenham,0,0,D,2025,0.556304,0.608309
+2026-01-01,Sunderland,Manchester City,0,0,D,2025,0.962141,2.44247
 2026-01-01,Crystal Palace,Fulham,1,1,D,2025,2.35346,1.75434
 2026-01-01,Liverpool,Leeds,0,0,D,2025,1.67833,0.15936
 2026-01-03,Aston Villa,Nottingham Forest,3,1,H,2025,1.42988,0.8982
 2026-01-03,Brighton,Burnley,2,0,H,2025,1.4717,0.254551
 2026-01-03,Wolves,West Ham,3,0,H,2025,2.23925,0.235678
 2026-01-03,Bournemouth,Arsenal,2,3,A,2025,0.947846,1.28
-2026-01-04,Manchester City,Chelsea,1,1,D,2025,1.03049,2.03726
 2026-01-04,Leeds,Manchester United,1,1,D,2025,0.970138,1.94781
 2026-01-04,Everton,Brentford,2,4,A,2025,1.00566,3.05179
 2026-01-04,Newcastle United,Crystal Palace,2,0,H,2025,2.72764,1.27825
 2026-01-04,Tottenham,Sunderland,1,1,D,2025,1.4175,0.467481
 2026-01-04,Fulham,Liverpool,2,2,D,2025,0.609182,1.7188
+2026-01-04,Manchester City,Chelsea,1,1,D,2025,1.03049,2.03726
 2026-01-06,West Ham,Nottingham Forest,1,2,A,2025,1.73697,1.26683
-2026-01-07,Newcastle United,Leeds,4,3,H,2025,2.43495,2.35318
-2026-01-07,Burnley,Manchester United,2,2,D,2025,0.31971,2.52488
-2026-01-07,Manchester City,Brighton,1,1,D,2025,2.95904,1.33162
-2026-01-07,Fulham,Chelsea,2,1,H,2025,1.06013,2.45107
 2026-01-07,Bournemouth,Tottenham,3,2,H,2025,1.19014,1.6261
-2026-01-07,Crystal Palace,Aston Villa,0,0,D,2025,1.32505,2.07015
 2026-01-07,Brentford,Sunderland,3,0,H,2025,3.86096,1.50644
+2026-01-07,Crystal Palace,Aston Villa,0,0,D,2025,1.32505,2.07015
 2026-01-07,Everton,Wolves,1,1,D,2025,1.63321,0.71329
+2026-01-07,Fulham,Chelsea,2,1,H,2025,1.06013,2.45107
+2026-01-07,Manchester City,Brighton,1,1,D,2025,2.95904,1.33162
+2026-01-07,Burnley,Manchester United,2,2,D,2025,0.31971,2.52488
+2026-01-07,Newcastle United,Leeds,4,3,H,2025,2.43495,2.35318
 2026-01-08,Arsenal,Liverpool,0,0,D,2025,0.701832,0.318642
-2026-01-17,Tottenham,West Ham,1,2,A,2025,1.65292,2.76761
-2026-01-17,Leeds,Fulham,1,0,H,2025,2.16898,0.258796
 2026-01-17,Nottingham Forest,Arsenal,0,0,D,2025,0.318481,2.86323
 2026-01-17,Sunderland,Crystal Palace,2,1,H,2025,1.84601,1.15169
-2026-01-17,Manchester United,Manchester City,2,0,H,2025,3.07278,0.387015
-2026-01-17,Chelsea,Brentford,2,0,H,2025,1.62263,1.47521
 2026-01-17,Liverpool,Burnley,1,1,D,2025,3.49045,0.546971
+2026-01-17,Tottenham,West Ham,1,2,A,2025,1.65292,2.76761
+2026-01-17,Chelsea,Brentford,2,0,H,2025,1.62263,1.47521
+2026-01-17,Manchester United,Manchester City,2,0,H,2025,3.07278,0.387015
+2026-01-17,Leeds,Fulham,1,0,H,2025,2.16898,0.258796
 2026-01-18,Wolves,Newcastle United,0,0,D,2025,0.390216,0.813313
 2026-01-18,Aston Villa,Everton,0,1,A,2025,0.905393,0.745859
 2026-01-19,Brighton,Bournemouth,1,1,D,2025,0.995777,1.69737
-2026-01-24,Bournemouth,Liverpool,3,2,H,2025,3.31474,0.937335
-2026-01-24,Fulham,Brighton,2,1,H,2025,1.13243,1.94652
-2026-01-24,Manchester City,Wolves,2,0,H,2025,1.0654,0.542683
 2026-01-24,West Ham,Sunderland,3,1,H,2025,2.18675,0.713838
 2026-01-24,Burnley,Tottenham,2,2,D,2025,1.54884,2.59093
-2026-01-25,Brentford,Nottingham Forest,0,2,A,2025,2.00413,1.38958
-2026-01-25,Crystal Palace,Chelsea,1,3,A,2025,2.41793,3.08817
+2026-01-24,Fulham,Brighton,2,1,H,2025,1.13243,1.94652
+2026-01-24,Manchester City,Wolves,2,0,H,2025,1.0654,0.542683
+2026-01-24,Bournemouth,Liverpool,3,2,H,2025,3.31474,0.937335
 2026-01-25,Newcastle United,Aston Villa,0,2,A,2025,1.95484,1.32143
 2026-01-25,Arsenal,Manchester United,2,3,A,2025,1.42411,0.640902
+2026-01-25,Brentford,Nottingham Forest,0,2,A,2025,2.00413,1.38958
+2026-01-25,Crystal Palace,Chelsea,1,3,A,2025,2.41793,3.08817
 2026-01-26,Everton,Leeds,1,1,D,2025,0.889916,1.6766
-2026-01-31,Chelsea,West Ham,3,2,H,2025,2.66133,1.72585
-2026-01-31,Wolves,Bournemouth,0,2,A,2025,2.10353,1.59116
-2026-01-31,Liverpool,Newcastle United,4,1,H,2025,3.09973,0.284319
 2026-01-31,Brighton,Everton,1,1,D,2025,1.42825,1.28126
 2026-01-31,Leeds,Arsenal,0,4,A,2025,0.17871,3.54427
+2026-01-31,Wolves,Bournemouth,0,2,A,2025,2.10353,1.59116
+2026-01-31,Chelsea,West Ham,3,2,H,2025,2.66133,1.72585
+2026-01-31,Liverpool,Newcastle United,4,1,H,2025,3.09973,0.284319
 2026-02-01,Tottenham,Manchester City,2,2,D,2025,1.49738,2.03614
 2026-02-01,Nottingham Forest,Crystal Palace,1,1,D,2025,0.987254,1.648
 2026-02-01,Aston Villa,Brentford,0,1,A,2025,2.15316,0.314916
 2026-02-01,Manchester United,Fulham,3,2,H,2025,1.84362,1.71998
 2026-02-02,Sunderland,Burnley,3,0,H,2025,1.8865,0.126371
 2026-02-06,Leeds,Nottingham Forest,3,1,H,2025,3.38179,1.6608
-2026-02-07,Manchester United,Tottenham,2,0,H,2025,2.16576,0.593404
-2026-02-07,Arsenal,Sunderland,3,0,H,2025,1.19401,0.427225
-2026-02-07,Bournemouth,Aston Villa,1,1,D,2025,1.82646,0.646496
-2026-02-07,Burnley,West Ham,0,2,A,2025,1.84644,1.1223
-2026-02-07,Fulham,Everton,1,2,A,2025,2.20126,1.88778
 2026-02-07,Wolves,Chelsea,1,3,A,2025,1.11372,3.76278
 2026-02-07,Newcastle United,Brentford,2,3,A,2025,3.3215,1.65022
-2026-02-08,Liverpool,Manchester City,1,2,A,2025,1.26652,2.41476
+2026-02-07,Fulham,Everton,1,2,A,2025,2.20126,1.88778
+2026-02-07,Manchester United,Tottenham,2,0,H,2025,2.16576,0.593404
+2026-02-07,Bournemouth,Aston Villa,1,1,D,2025,1.82646,0.646496
+2026-02-07,Burnley,West Ham,0,2,A,2025,1.84644,1.1223
+2026-02-07,Arsenal,Sunderland,3,0,H,2025,1.19401,0.427225
 2026-02-08,Brighton,Crystal Palace,0,1,A,2025,0.737798,0.928404
+2026-02-08,Liverpool,Manchester City,1,2,A,2025,1.26652,2.41476
 2026-02-10,Chelsea,Leeds,2,2,D,2025,3.21176,1.28948
 2026-02-10,Everton,Bournemouth,1,2,A,2025,2.33114,1.4121
 2026-02-10,Tottenham,Newcastle United,1,2,A,2025,1.68925,2.46991
@@ -3300,11 +3300,11 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2026-02-11,Sunderland,Liverpool,0,1,A,2025,0.693794,3.08172
 2026-02-12,Brentford,Arsenal,1,1,D,2025,1.81154,0.78418
 2026-02-18,Wolves,Arsenal,2,2,D,2025,0.173119,2.01018
-2026-02-21,Manchester City,Newcastle United,2,1,H,2025,2.22648,0.507954
-2026-02-21,West Ham,Bournemouth,0,0,D,2025,2.34412,0.522731
 2026-02-21,Aston Villa,Leeds,1,1,D,2025,1.25439,1.27855
 2026-02-21,Brentford,Brighton,0,2,A,2025,1.69023,1.37203
 2026-02-21,Chelsea,Burnley,1,1,D,2025,2.51534,1.01255
+2026-02-21,West Ham,Bournemouth,0,0,D,2025,2.34412,0.522731
+2026-02-21,Manchester City,Newcastle United,2,1,H,2025,2.22648,0.507954
 2026-02-22,Crystal Palace,Wolves,1,0,H,2025,2.03559,1.67749
 2026-02-22,Nottingham Forest,Liverpool,0,1,A,2025,0.934768,2.39634
 2026-02-22,Sunderland,Fulham,1,3,A,2025,1.7609,2.16696
@@ -3312,10 +3312,10 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2026-02-23,Everton,Manchester United,0,1,A,2025,0.560924,1.4547
 2026-02-27,Wolves,Aston Villa,2,0,H,2025,1.50771,1.31328
 2026-02-28,Leeds,Manchester City,0,1,A,2025,1.37824,2.46834
-2026-02-28,Liverpool,West Ham,5,2,H,2025,2.09939,1.3517
 2026-02-28,Newcastle United,Everton,2,3,A,2025,1.11889,2.40731
 2026-02-28,Bournemouth,Sunderland,1,1,D,2025,1.82434,1.07887
 2026-02-28,Burnley,Brentford,3,4,A,2025,0.823824,2.44595
+2026-02-28,Liverpool,West Ham,5,2,H,2025,2.09939,1.3517
 2026-03-01,Brighton,Nottingham Forest,2,1,H,2025,1.20107,0.83055
 2026-03-01,Fulham,Tottenham,2,1,H,2025,2.3207,0.952091
 2026-03-01,Manchester United,Crystal Palace,2,1,H,2025,2.34609,0.384699
@@ -3326,73 +3326,73 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2026-03-03,Wolves,Liverpool,2,1,H,2025,0.636033,2.17217
 2026-03-04,Newcastle United,Manchester United,2,1,H,2025,1.96637,1.80571
 2026-03-04,Manchester City,Nottingham Forest,2,2,D,2025,2.72655,1.23642
-2026-03-04,Fulham,West Ham,0,1,A,2025,0.628123,1.49528
 2026-03-04,Brighton,Arsenal,0,1,A,2025,0.919228,0.514803
 2026-03-04,Aston Villa,Chelsea,1,4,A,2025,1.06854,3.38883
+2026-03-04,Fulham,West Ham,0,1,A,2025,0.628123,1.49528
 2026-03-05,Tottenham,Crystal Palace,1,3,A,2025,1.29615,1.91515
 2026-03-14,Burnley,Bournemouth,0,0,D,2025,1.67695,2.36979
 2026-03-14,Sunderland,Brighton,0,1,A,2025,0.659083,1.12832
 2026-03-14,Arsenal,Everton,2,0,H,2025,1.90855,1.17847
 2026-03-14,Chelsea,Newcastle United,0,1,A,2025,1.72508,1.03251
 2026-03-14,West Ham,Manchester City,1,1,D,2025,0.488982,1.9546
-2026-03-15,Nottingham Forest,Fulham,0,0,D,2025,0.821011,0.933988
 2026-03-15,Liverpool,Tottenham,1,1,D,2025,1.30076,1.15636
-2026-03-15,Crystal Palace,Leeds,0,0,D,2025,0.525205,1.13558
 2026-03-15,Manchester United,Aston Villa,3,1,H,2025,1.67823,1.21071
+2026-03-15,Crystal Palace,Leeds,0,0,D,2025,0.525205,1.13558
+2026-03-15,Nottingham Forest,Fulham,0,0,D,2025,0.821011,0.933988
 2026-03-16,Brentford,Wolves,2,2,D,2025,2.7966,1.80044
 2026-03-20,Bournemouth,Manchester United,2,2,D,2025,1.76664,1.74574
 2026-03-21,Brighton,Liverpool,2,1,H,2025,3.42956,0.956801
 2026-03-21,Fulham,Burnley,3,1,H,2025,3.48438,1.92556
 2026-03-21,Everton,Chelsea,3,0,H,2025,1.44532,1.35143
 2026-03-21,Leeds,Brentford,0,0,D,2025,0.417296,0.302221
+2026-03-22,Tottenham,Nottingham Forest,0,3,A,2025,1.6189,1.54408
 2026-03-22,Newcastle United,Sunderland,1,2,A,2025,1.26705,2.66657
 2026-03-22,Aston Villa,West Ham,2,0,H,2025,2.48528,0.760054
-2026-03-22,Tottenham,Nottingham Forest,0,3,A,2025,1.6189,1.54408
 2026-04-10,West Ham,Wolves,4,0,H,2025,2.54379,0.571967
-2026-04-11,Liverpool,Fulham,2,0,H,2025,2.01499,1.42024
-2026-04-11,Burnley,Brighton,0,2,A,2025,0.812029,1.07182
 2026-04-11,Arsenal,Bournemouth,1,2,A,2025,3.16346,1.39461
 2026-04-11,Brentford,Everton,2,2,D,2025,2.26302,1.57033
+2026-04-11,Burnley,Brighton,0,2,A,2025,0.812029,1.07182
+2026-04-11,Liverpool,Fulham,2,0,H,2025,2.01499,1.42024
 2026-04-12,Crystal Palace,Newcastle United,2,1,H,2025,3.13933,1.27299
 2026-04-12,Nottingham Forest,Aston Villa,1,1,D,2025,0.85045,1.36297
 2026-04-12,Sunderland,Tottenham,1,0,H,2025,1.77584,1.01598
 2026-04-12,Chelsea,Manchester City,0,3,A,2025,1.22108,2.40839
 2026-04-13,Manchester United,Leeds,1,2,A,2025,1.36555,2.95118
-2026-04-18,Tottenham,Brighton,2,2,D,2025,1.56052,1.1373
-2026-04-18,Brentford,Fulham,0,0,D,2025,2.33552,0.790707
-2026-04-18,Leeds,Wolves,3,0,H,2025,3.55804,0.568627
-2026-04-18,Newcastle United,Bournemouth,1,2,A,2025,1.61167,3.36662
 2026-04-18,Chelsea,Manchester United,0,1,A,2025,1.28109,0.436043
-2026-04-19,Manchester City,Arsenal,2,1,H,2025,2.61528,2.28964
-2026-04-19,Nottingham Forest,Burnley,4,1,H,2025,1.4425,0.601418
+2026-04-18,Tottenham,Brighton,2,2,D,2025,1.56052,1.1373
+2026-04-18,Newcastle United,Bournemouth,1,2,A,2025,1.61167,3.36662
+2026-04-18,Leeds,Wolves,3,0,H,2025,3.55804,0.568627
+2026-04-18,Brentford,Fulham,0,0,D,2025,2.33552,0.790707
 2026-04-19,Aston Villa,Sunderland,4,3,H,2025,3.90223,1.56008
 2026-04-19,Everton,Liverpool,1,2,A,2025,1.4784,1.38333
+2026-04-19,Nottingham Forest,Burnley,4,1,H,2025,1.4425,0.601418
+2026-04-19,Manchester City,Arsenal,2,1,H,2025,2.61528,2.28964
 2026-04-20,Crystal Palace,West Ham,0,0,D,2025,0.733442,0.622445
 2026-04-21,Brighton,Chelsea,3,0,H,2025,2.51784,0.297865
 2026-04-22,Bournemouth,Leeds,2,2,D,2025,1.91355,1.21601
 2026-04-22,Burnley,Manchester City,0,1,A,2025,0.973776,3.40888
 2026-04-24,Sunderland,Nottingham Forest,0,5,A,2025,0.614323,1.54208
-2026-04-25,West Ham,Everton,2,1,H,2025,1.8356,1.1144
+2026-04-25,Arsenal,Newcastle United,1,0,H,2025,0.639189,0.868897
 2026-04-25,Wolves,Tottenham,0,1,A,2025,0.762656,1.06403
 2026-04-25,Fulham,Aston Villa,1,0,H,2025,1.24069,0.906156
 2026-04-25,Liverpool,Crystal Palace,3,1,H,2025,1.45071,2.19912
-2026-04-25,Arsenal,Newcastle United,1,0,H,2025,0.639189,0.868897
+2026-04-25,West Ham,Everton,2,1,H,2025,1.8356,1.1144
 2026-04-27,Manchester United,Brentford,2,1,H,2025,1.84852,1.30383
 2026-05-01,Leeds,Burnley,3,1,H,2025,2.09546,0.434597
+2026-05-02,Arsenal,Fulham,3,0,H,2025,4.09079,0.696714
 2026-05-02,Brentford,West Ham,3,0,H,2025,2.27374,0.753895
 2026-05-02,Newcastle United,Brighton,3,1,H,2025,3.12933,1.87112
 2026-05-02,Wolves,Sunderland,1,1,D,2025,1.96131,0.923954
-2026-05-02,Arsenal,Fulham,3,0,H,2025,4.09079,0.696714
-2026-05-03,Bournemouth,Crystal Palace,3,0,H,2025,2.29626,0.678329
 2026-05-03,Manchester United,Liverpool,3,2,H,2025,2.55612,1.02814
 2026-05-03,Aston Villa,Tottenham,1,2,A,2025,0.609494,1.12225
-2026-05-04,Chelsea,Nottingham Forest,1,3,A,2025,2.17132,2.31019
+2026-05-03,Bournemouth,Crystal Palace,3,0,H,2025,2.29626,0.678329
 2026-05-04,Everton,Manchester City,3,3,D,2025,1.68558,1.41706
-2026-05-09,Manchester City,Brentford,3,0,H,2025,4.37429,0.670038
-2026-05-09,Sunderland,Manchester United,0,0,D,2025,1.2376,0.535981
-2026-05-09,Fulham,Bournemouth,0,1,A,2025,1.24334,0.998003
-2026-05-09,Brighton,Wolves,3,0,H,2025,2.22427,0.515647
+2026-05-04,Chelsea,Nottingham Forest,1,3,A,2025,2.17132,2.31019
 2026-05-09,Liverpool,Chelsea,1,1,D,2025,0.623191,0.597184
+2026-05-09,Brighton,Wolves,3,0,H,2025,2.22427,0.515647
+2026-05-09,Fulham,Bournemouth,0,1,A,2025,1.24334,0.998003
+2026-05-09,Sunderland,Manchester United,0,0,D,2025,1.2376,0.535981
+2026-05-09,Manchester City,Brentford,3,0,H,2025,4.37429,0.670038
 2026-05-10,Burnley,Aston Villa,2,2,D,2025,1.71234,1.75493
 2026-05-10,Crystal Palace,Everton,2,2,D,2025,3.28826,2.10265
 2026-05-10,Nottingham Forest,Newcastle United,1,1,D,2025,1.46434,1.65067
@@ -3403,79 +3403,89 @@ Date,HomeTeam,AwayTeam,home_goals,away_goals,result,season_start_year,home_xg,aw
 2026-05-17,Newcastle United,West Ham,3,1,H,2025,2.1336,0.957771
 2026-05-17,Wolves,Fulham,1,1,D,2025,1.49725,1.48412
 2026-05-17,Leeds,Brighton,1,0,H,2025,0.747756,2.23238
-2026-05-17,Everton,Sunderland,1,3,A,2025,1.32181,1.28383
-2026-05-17,Brentford,Crystal Palace,2,2,D,2025,1.54564,1.82274
 2026-05-17,Manchester United,Nottingham Forest,3,2,H,2025,4.28532,1.84418
+2026-05-17,Brentford,Crystal Palace,2,2,D,2025,1.54564,1.82274
+2026-05-17,Everton,Sunderland,1,3,A,2025,1.32181,1.28383
 2026-05-18,Arsenal,Burnley,1,0,H,2025,1.22695,0.194884
 2026-05-19,Bournemouth,Manchester City,1,1,D,2025,1.71486,1.26917
 2026-05-19,Chelsea,Tottenham,2,1,H,2025,1.09262,2.15227
+2026-05-24,Nottingham Forest,Bournemouth,1,1,D,2025,2.05852,1.33684
 2026-05-24,West Ham,Leeds,3,0,H,2025,2.73135,1.94969
 2026-05-24,Tottenham,Everton,1,0,H,2025,1.40597,0.268476
 2026-05-24,Sunderland,Chelsea,2,1,H,2025,2.33109,0.920885
 2026-05-24,Manchester City,Aston Villa,1,2,A,2025,1.38085,2.4397
-2026-05-24,Nottingham Forest,Bournemouth,1,1,D,2025,2.05852,1.33684
 2026-05-24,Fulham,Newcastle United,2,0,H,2025,1.72878,0.24232
 2026-05-24,Crystal Palace,Arsenal,1,2,A,2025,1.00492,3.90645
 2026-05-24,Burnley,Wolves,1,1,D,2025,1.28476,2.8433
 2026-05-24,Brighton,Manchester United,0,3,A,2025,0.702398,2.32868
 2026-05-24,Liverpool,Brentford,1,1,D,2025,2.99412,1.46082
 2026-08-21,Arsenal,Coventry,3,0,H,2026,1.85424,0.558336
+2026-08-22,Brentford,Tottenham,3,0,H,2026,4.04155,0.756284
 2026-08-22,Hull,Manchester United,2,0,H,2026,1.49627,1.77874
 2026-08-22,Everton,Crystal Palace,2,0,H,2026,1.45085,2.23095
 2026-08-22,Ipswich,Sunderland,2,1,H,2026,1.58452,1.17743
 2026-08-22,Nottingham Forest,Leeds,0,1,A,2026,0.656681,0.466247
-2026-08-22,Brentford,Tottenham,3,0,H,2026,4.04155,0.756284
+2026-08-23,Newcastle United,Liverpool,2,2,D,2026,1.59465,3.13133
 2026-08-23,Manchester City,Bournemouth,2,1,H,2026,2.47444,0.707541
 2026-08-23,Brighton,Aston Villa,4,0,H,2026,4.00327,0.275249
-2026-08-23,Newcastle United,Liverpool,2,2,D,2026,1.59465,3.13133
 2026-08-24,Fulham,Chelsea,2,3,A,2026,1.41707,2.58384
 2026-08-28,Crystal Palace,Manchester City,1,4,A,2026,0.926624,2.56662
+2026-08-29,Tottenham,Newcastle United,0,2,A,2026,1.12037,1.00952
 2026-08-29,Liverpool,Nottingham Forest,2,2,D,2026,1.27921,2.87937
 2026-08-29,Bournemouth,Everton,1,1,D,2026,2.25803,1.66352
 2026-08-29,Coventry,Hull,0,1,A,2026,1.18233,0.459726
-2026-08-29,Tottenham,Newcastle United,0,2,A,2026,1.12037,1.00952
-2026-08-30,Chelsea,Brighton,4,3,H,2026,3.8289,1.79173
 2026-08-30,Leeds,Brentford,1,1,D,2026,1.14993,1.61344
 2026-08-30,Sunderland,Fulham,1,0,H,2026,1.56229,1.02405
+2026-08-30,Chelsea,Brighton,4,3,H,2026,3.8289,1.79173
 2026-08-30,Manchester United,Ipswich,5,2,H,2026,4.86612,1.80548
 2026-08-31,Aston Villa,Arsenal,0,1,A,2026,0.281925,1.52441
 2026-09-04,Ipswich,Liverpool,0,2,A,2026,0.597972,0.744139
-2026-09-05,Hull,Aston Villa,0,0,D,2026,0.812385,1.63526
-2026-09-05,Nottingham Forest,Tottenham,0,0,D,2026,0.831692,1.48446
-2026-09-05,Manchester City,Coventry,1,0,H,2026,2.19038,1.49306
 2026-09-05,Newcastle United,Bournemouth,2,2,D,2026,0.771636,1.63891
-2026-09-05,Brighton,Leeds,1,1,D,2026,2.22026,2.23407
 2026-09-05,Brentford,Sunderland,1,1,D,2026,1.58584,2.15489
+2026-09-05,Brighton,Leeds,1,1,D,2026,2.22026,2.23407
 2026-09-05,Fulham,Crystal Palace,2,3,A,2026,2.88274,2.35981
+2026-09-05,Manchester City,Coventry,1,0,H,2026,2.19038,1.49306
+2026-09-05,Nottingham Forest,Tottenham,0,0,D,2026,0.831692,1.48446
+2026-09-05,Hull,Aston Villa,0,0,D,2026,0.812385,1.63526
 2026-09-06,Everton,Manchester United,2,2,D,2026,1.05629,0.872225
 2026-09-06,Arsenal,Chelsea,2,1,H,2026,2.80555,0.430508
-2026-09-12,Tottenham,Everton,0,0,D,2026,0.736856,1.60056
 2026-09-12,Sunderland,Arsenal,0,2,A,2026,2.07033,1.98905
-2026-09-12,Crystal Palace,Ipswich,2,3,A,2026,0.937888,2.03423
+2026-09-12,Tottenham,Everton,0,0,D,2026,0.736856,1.60056
 2026-09-12,Liverpool,Fulham,0,0,D,2026,1.79832,0.922453
 2026-09-12,Bournemouth,Brentford,2,2,D,2026,2.54949,0.794238
-2026-09-12,Aston Villa,Nottingham Forest,1,2,A,2026,1.08786,2.79451
 2026-09-12,Chelsea,Hull,2,2,D,2026,1.21374,1.80363
+2026-09-12,Aston Villa,Nottingham Forest,1,2,A,2026,1.08786,2.79451
+2026-09-12,Crystal Palace,Ipswich,2,3,A,2026,0.937888,2.03423
 2026-09-13,Coventry,Brighton,0,5,A,2026,1.04812,2.76518
 2026-09-13,Manchester United,Manchester City,0,1,A,2026,0.943406,1.14073
 2026-09-14,Leeds,Newcastle United,4,1,H,2026,2.2902,0.793165
 2026-09-18,Brentford,Chelsea,3,0,H,2026,2.47935,0.885111
 2026-09-19,Nottingham Forest,Coventry,0,1,A,2026,1.31852,0.69375
-2026-09-19,Tottenham,Aston Villa,2,3,A,2026,1.72177,1.7092
-2026-09-19,Brighton,Arsenal,3,0,H,2026,2.11268,1.23979
 2026-09-19,Everton,Ipswich,1,0,H,2026,2.58285,1.10179
 2026-09-19,Newcastle United,Hull,2,1,H,2026,1.37521,1.15888
-2026-09-20,Fulham,Manchester United,1,1,D,2026,1.71719,2.12453
-2026-09-20,Manchester City,Sunderland,5,3,H,2026,2.66856,3.10661
+2026-09-19,Tottenham,Aston Villa,2,3,A,2026,1.72177,1.7092
+2026-09-19,Brighton,Arsenal,3,0,H,2026,2.11268,1.23979
 2026-09-20,Bournemouth,Liverpool,0,1,A,2026,0.944706,1.29116
 2026-09-20,Leeds,Crystal Palace,0,0,D,2026,1.08552,1.12905
-2026-10-10,Manchester United,Tottenham,1,1,D,2026,0.867817,2.03436
+2026-09-20,Manchester City,Sunderland,5,3,H,2026,2.66856,3.10661
+2026-09-20,Fulham,Manchester United,1,1,D,2026,1.71719,2.12453
+2026-10-10,Sunderland,Brighton,0,2,A,2026,0.869773,1.64162
 2026-10-10,Arsenal,Leeds,2,1,H,2026,2.32061,1.19826
 2026-10-10,Aston Villa,Brentford,2,2,D,2026,1.83842,1.28128
 2026-10-10,Chelsea,Bournemouth,5,1,H,2026,1.3732,1.67505
 2026-10-10,Ipswich,Fulham,2,1,H,2026,1.25918,1.77856
-2026-10-10,Sunderland,Brighton,0,2,A,2026,0.869773,1.64162
-2026-10-11,Hull,Everton,2,2,D,2026,1.53245,2.79588
+2026-10-10,Manchester United,Tottenham,1,1,D,2026,0.867817,2.03436
 2026-10-11,Liverpool,Manchester City,0,3,A,2026,0.75917,1.58703
 2026-10-11,Crystal Palace,Nottingham Forest,3,1,H,2026,2.24807,3.76379
+2026-10-11,Hull,Everton,2,2,D,2026,1.53245,2.79588
 2026-10-12,Coventry,Newcastle United,4,1,H,2026,1.66422,2.21865
+2026-10-17,Newcastle United,Aston Villa,0,1,A,2026,0.920183,2.0822
+2026-10-17,Everton,Chelsea,0,2,A,2026,0.570749,1.602
+2026-10-17,Brentford,Liverpool,1,2,A,2026,0.858733,1.54933
+2026-10-17,Fulham,Hull,1,0,H,2026,2.27426,0.130919
+2026-10-17,Manchester City,Ipswich,3,2,H,2026,4.00772,1.37153
+2026-10-18,Leeds,Manchester United,1,1,D,2026,1.41034,1.08135
+2026-10-18,Nottingham Forest,Arsenal,0,1,A,2026,0.74721,0.9151
+2026-10-18,Bournemouth,Sunderland,2,0,H,2026,4.386,0.0943414
+2026-10-18,Brighton,Crystal Palace,5,0,H,2026,2.2522,0.627519
+2026-10-19,Tottenham,Coventry,3,1,H,2026,0.971825,1.1439
